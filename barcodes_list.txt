@@ -1,0 +1,23 @@
+VeloCart — first 20 products for barcode testing (EAN-13, India prefix 890)
+Format: BARCODE<TAB>NAME
+
+8901000000001	Epigamia Greek Yogurt 90g
+8901000000002	Nutraj California Almonds 200g
+8901000000003	Rajdhani Chana Dal 500g
+8901000000004	Bisleri Water 1L
+8901000000005	Modern Sandwich Bread 400g
+8901000000006	Sensodyne Repair 70g
+8901000000007	Dettol Antiseptic 500ml
+8901000000008	Yummiez Chicken Nuggets 250g
+8901000000009	Fresh Potatoes 1kg
+8901000000010	Everest Kitchen King 100g
+8901000000011	Amul Butter 100g
+8901000000012	Britannia Good Day 200g
+8901000000013	Daawat Basmati Rice 1kg
+8901000000014	Tata Tea Gold 250g
+8901000000015	Britannia Rusk 200g
+8901000000016	Gillette Guard 3pc
+8901000000017	Surf Excel Matic Top Load 1kg
+8901000000018	Safal Frozen Green Peas 500g
+8901000000019	Shimla Apples 500g
+8901000000020	Everest Meat Masala 100g

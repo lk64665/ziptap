@@ -1,0 +1,65 @@
+{
+  "expo": {
+    "name": "ZipTap",
+    "slug": "ziptap",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#6C3CE1"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.ziptap.app",
+      "infoPlist": {
+        "NSCameraUsageDescription": "ZipTap uses the camera to scan product barcodes and verify orders.",
+        "NSPhotoLibraryUsageDescription": "ZipTap needs photo library access for your profile picture.",
+        "NSFaceIDUsageDescription": "Use Face ID for secure sign-in."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#6C3CE1"
+      },
+      "package": "com.ziptap.app",
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.VIBRATE",
+        "android.permission.READ_EXTERNAL_STORAGE"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "ZipTap needs camera access to scan barcodes and verify orders."
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "ZipTap needs access to your photos for profile pictures."
+        }
+      ],
+      [
+        "expo-secure-store",
+        {
+          "faceIDPermission": "Allow ZipTap to use Face ID for secure login."
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "REPLACE_WITH_YOUR_EAS_PROJECT_ID"
+      }
+    }
+  }
+}

@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "name": "Epigamia Greek Yogurt 90g",
+    "barcode": "8901000000001",
+    "price": 709,
+    "category": "Dairy",
+    "stock": 61
+  },
+  {
+    "id": 2,
+    "name": "Nutraj California Almonds 200g",
+    "barcode": "8901000000002",
+    "price": 633,
+    "category": "Snacks",
+    "stock": 52
+  },
+  {
+    "id": 3,
+    "name": "Rajdhani Chana Dal 500g",
+    "barcode": "8901000000003",
+    "price": 762,
+    "category": "Staples",
+    "stock": 54
+  },
+  {
+    "id": 4,
+    "name": "Bisleri Water 1L",
+    "barcode": "8901000000004",
+    "price": 884,
+    "category": "Beverages",
+    "stock": 87
+  },
+  {
+    "id": 5,
+    "name": "Modern Sandwich Bread 400g",
+    "barcode": "8901000000005",
+    "price": 189,
+    "category": "Bakery",
+    "stock": 19
+  },
+  {
+    "id": 6,
+    "name": "Sensodyne Repair 70g",
+    "barcode": "8901000000006",
+    "price": 421,
+    "category": "Personal Care",
+    "stock": 75
+  },
+  {
+    "id": 7,
+    "name": "Dettol Antiseptic 500ml",
+    "barcode": "8901000000007",
+    "price": 189,
+    "category": "Cleaning",
+    "stock": 64
+  },
+  {
+    "id": 8,
+    "name": "Yummiez Chicken Nuggets 250g",
+    "barcode": "8901000000008",
+    "price": 484,
+    "category": "Frozen",
+    "stock": 81
+  },
+  {
+    "id": 9,
+    "name": "Fresh Potatoes 1kg",
+    "barcode": "8901000000009",
+    "price": 464,
+    "category": "Produce",
+    "stock": 18
+  },
+  {
+    "id": 10,
+    "name": "Everest Kitchen King 100g",
+    "barcode": "8901000000010",
+    "price": 458,
+    "category": "Spices",
+    "stock": 24
+  },
+  {
+    "id": 11,
+    "name": "Amul Butter 100g",
+    "barcode": "8901000000011",
+    "price": 760,
+    "category": "Dairy",
+    "stock": 59
+  },
+  {
+    "id": 12,
+    "name": "Britannia Good Day 200g",
+    "barcode": "8901000000012",
+    "price": 695,
+    "category": "Snacks",
+    "stock": 88
+  },
+  {
+    "id": 13,
+    "name": "Daawat Basmati Rice 1kg",
+    "barcode": "8901000000013",
+    "price": 332,
+    "category": "Staples",
+    "stock": 67
+  },
+  {
+    "id": 14,
+    "name": "Tata Tea Gold 250g",
+    "barcode": "8901000000014",
+    "price": 681,
+    "category": "Beverages",
+    "stock": 74
+  },
+  {
+    "id": 15,
+    "name": "Britannia Rusk 200g",
+    "barcode": "8901000000015",
+    "price": 761,
+    "category": "Bakery",
+    "stock": 6
+  },
+  {
+    "id": 16,
+    "name": "Gillette Guard 3pc",
+    "barcode": "8901000000016",
+    "price": 416,
+    "category": "Personal Care",
+    "stock": 22
+  },
+  {
+    "id": 17,
+    "name": "Surf Excel Matic Top Load 1kg",
+    "barcode": "8901000000017",
+    "price": 542,
+    "category": "Cleaning",
+    "stock": 93
+  },
+  {
+    "id": 18,
+    "name": "Safal Frozen Green Peas 500g",
+    "barcode": "8901000000018",
+    "price": 251,
+    "category": "Frozen",
+    "stock": 55
+  },
+  {
+    "id": 19,
+    "name": "Shimla Apples 500g",
+    "barcode": "8901000000019",
+    "price": 301,
+    "category": "Produce",
+    "stock": 34
+  },
+  {
+    "id": 20,
+    "name": "Everest Meat Masala 100g",
+    "barcode": "8901000000020",
+    "price": 47,
+    "category": "Spices",
+    "stock": 4
+  },
+  {
+    "id": 21,
+    "name": "Nestlé Milkmaid 400g",
+    "barcode": "8901000000021",
+    "price": 830,
+    "category": "Dairy",
+    "stock": 72
+  },
+  {
+    "id": 22,
+    "name": "Yippee Noodles 60g",
+    "barcode": "8901000000022",
+    "price": 520,
+    "category": "Snacks",
+    "stock": 81
+  },
+  {
+    "id": 23,
+    "name": "India Gate Basmati Rice 5kg",
+    "barcode": "8901000000023",
+    "price": 647,
+    "category": "Staples",
+    "stock": 72
+  },
+  {
+    "id": 24,
+    "name": "Bru Instant Coffee 100g",
+    "barcode": "8901000000024",
+    "price": 861,
+    "category": "Beverages",
+    "stock": 72
+  },
+  {
+    "id": 25,
+    "name": "Britannia Whole Wheat Bread 450g",
+    "barcode": "8901000000025",
+    "price": 97,
+    "category": "Bakery",
+    "stock": 88
+  },
+  {
+    "id": 26,
+    "name": "Colgate Strong Teeth 200g",
+    "barcode": "8901000000026",
+    "price": 354,
+    "category": "Personal Care",
+    "stock": 9
+  },
+  {
+    "id": 27,
+    "name": "Rin Bar 250g",
+    "barcode": "8901000000027",
+    "price": 139,
+    "category": "Cleaning",
+    "stock": 46
+  },
+  {
+    "id": 28,
+    "name": "Fresho Frozen Mixed Veg 500g",
+    "barcode": "8901000000028",
+    "price": 274,
+    "category": "Frozen",
+    "stock": 84
+  },
+  {
+    "id": 29,
+    "name": "Spinach Bunch 250g",
+    "barcode": "8901000000029",
+    "price": 850,
+    "category": "Produce",
+    "stock": 7
+  },
+  {
+    "id": 30,
+    "name": "MDH Chana Masala 100g",
+    "barcode": "8901000000030",
+    "price": 507,
+    "category": "Spices",
+    "stock": 22
+  },
+  {
+    "id": 31,
+    "name": "Nandini Ghee 500ml",
+    "barcode": "8901000000031",
+    "price": 432,
+    "category": "Dairy",
+    "stock": 77
+  },
+  {
+    "id": 32,
+    "name": "Sunfeast Dark Fantasy Choco 150g",
+    "barcode": "8901000000032",
+    "price": 31,
+    "category": "Snacks",
+    "stock": 29
+  },
+  {
+    "id": 33,
+    "name": "Aashirvaad Superior Atta 5kg",
+    "barcode": "8901000000033",
+    "price": 81,
+    "category": "Staples",
+    "stock": 85
+  },
+  {
+    "id": 34,
+    "name": "Red Label Tea 250g",
+    "barcode": "8901000000034",
+    "price": 769,
+    "category": "Beverages",
+    "stock": 13
+  },
+  {
+    "id": 35,
+    "name": "Parle Hide & Seek 120g",
+    "barcode": "8901000000035",
+    "price": 144,
+    "category": "Bakery",
+    "stock": 100
+  },
+  {
+    "id": 36,
+    "name": "Sensodyne Repair 70g (1)",
+    "barcode": "8901000000036",
+    "price": 238,
+    "category": "Personal Care",
+    "stock": 12
+  },
+  {
+    "id": 37,
+    "name": "Exo Dishwash Bar 700g",
+    "barcode": "8901000000037",
+    "price": 327,
+    "category": "Cleaning",
+    "stock": 1
+  },
+  {
+    "id": 38,
+    "name": "McCain Smiles 415g",
+    "barcode": "8901000000038",
+    "price": 124,
+    "category": "Frozen",
+    "stock": 72
+  },
+  {
+    "id": 39,
+    "name": "Fresh Potatoes 1kg (1)",
+    "barcode": "8901000000039",
+    "price": 592,
+    "category": "Produce",
+    "stock": 34
+  },
+  {
+    "id": 40,
+    "name": "Everest Kitchen King 100g (1)",
+    "barcode": "8901000000040",
+    "price": 156,
+    "category": "Spices",
+    "stock": 63
+  },
+  {
+    "id": 41,
+    "name": "Britannia Cheese Slices 200g",
+    "barcode": "8901000000041",
+    "price": 285,
+    "category": "Dairy",
+    "stock": 68
+  },
+  {
+    "id": 42,
+    "name": "Lay's Magic Masala 52g",
+    "barcode": "8901000000042",
+    "price": 792,
+    "category": "Snacks",
+    "stock": 44
+  },
+  {
+    "id": 43,
+    "name": "Fortune Besan 500g",
+    "barcode": "8901000000043",
+    "price": 307,
+    "category": "Staples",
+    "stock": 87
+  },
+  {
+    "id": 44,
+    "name": "Slice Mango 600ml",
+    "barcode": "8901000000044",
+    "price": 216,
+    "category": "Beverages",
+    "stock": 90
+  },
+  {
+    "id": 45,
+    "name": "Britannia Nice Time 150g",
+    "barcode": "8901000000045",
+    "price": 94,
+    "category": "Bakery",
+    "stock": 86
+  },
+  {
+    "id": 46,
+    "name": "Gillette Guard 3pc (1)",
+    "barcode": "8901000000046",
+    "price": 856,
+    "category": "Personal Care",
+    "stock": 67
+  },
+  {
+    "id": 47,
+    "name": "Harpic Power Plus 500ml",
+    "barcode": "8901000000047",
+    "price": 185,
+    "category": "Cleaning",
+    "stock": 21
+  },
+  {
+    "id": 48,
+    "name": "Mother Dairy Kulfi 6pc",
+    "barcode": "8901000000048",
+    "price": 206,
+    "category": "Frozen",
+    "stock": 72
+  },
+  {
+    "id": 49,
+    "name": "Shimla Apples 500g (1)",
+    "barcode": "8901000000049",
+    "price": 477,
+    "category": "Produce",
+    "stock": 48
+  },
+  {
+    "id": 50,
+    "name": "Everest Meat Masala 100g (1)",
+    "barcode": "8901000000050",
+    "price": 605,
+    "category": "Spices",
+    "stock": 18
+  },
+  {
+    "id": 51,
+    "name": "Amul Fresh Cream 250ml",
+    "barcode": "8901000000051",
+    "price": 707,
+    "category": "Dairy",
+    "stock": 53
+  },
+  {
+    "id": 52,
+    "name": "Lays Classic Salted 52g",
+    "barcode": "8901000000052",
+    "price": 300,
+    "category": "Snacks",
+    "stock": 12
+  },
+  {
+    "id": 53,
+    "name": "Fortune Maida 1kg",
+    "barcode": "8901000000053",
+    "price": 827,
+    "category": "Staples",
+    "stock": 57
+  },
+  {
+    "id": 54,
+    "name": "Nescafé Sunrise 200g",
+    "barcode": "8901000000054",
+    "price": 343,
+    "category": "Beverages",
+    "stock": 16
+  },
+  {
+    "id": 55,
+    "name": "Britannia Fruit Cake 150g",
+    "barcode": "8901000000055",
+    "price": 385,
+    "category": "Bakery",
+    "stock": 25
+  },
+  {
+    "id": 56,
+    "name": "Colgate Strong Teeth 200g (1)",
+    "barcode": "8901000000056",
+    "price": 62,
+    "category": "Personal Care",
+    "stock": 65
+  },
+  {
+    "id": 57,
+    "name": "Lizol Citrus 975ml",
+    "barcode": "8901000000057",
+    "price": 666,
+    "category": "Cleaning",
+    "stock": 9
+  },
+  {
+    "id": 58,
+    "name": "Kwality Walls Magnum Classic 80ml",
+    "barcode": "8901000000058",
+    "price": 788,
+    "category": "Frozen",
+    "stock": 31
+  },
+  {
+    "id": 59,
+    "name": "Spinach Bunch 250g (1)",
+    "barcode": "8901000000059",
+    "price": 211,
+    "category": "Produce",
+    "stock": 22
+  },
+  {
+    "id": 60,
+    "name": "MDH Chana Masala 100g (1)",
+    "barcode": "8901000000060",
+    "price": 389,
+    "category": "Spices",
+    "stock": 8
+  },
+  {
+    "id": 61,
+    "name": "Mother Dairy Full Cream 1L",
+    "barcode": "8901000000061",
+    "price": 203,
+    "category": "Dairy",
+    "stock": 7
+  },
+  {
+    "id": 62,
+    "name": "Maggi 2-Minute Noodles 70g",
+    "barcode": "8901000000062",
+    "price": 242,
+    "category": "Snacks",
+    "stock": 40
+  },
+  {
+    "id": 63,
+    "name": "Dhampure Sulphurless Sugar 1kg",
+    "barcode": "8901000000063",
+    "price": 182,
+    "category": "Staples",
+    "stock": 58
+  },
+  {
+    "id": 64,
+    "name": "Coca-Cola 750ml",
+    "barcode": "8901000000064",
+    "price": 470,
+    "category": "Beverages",
+    "stock": 20
+  },
+  {
+    "id": 65,
+    "name": "Britannia Marie Gold 250g",
+    "barcode": "8901000000065",
+    "price": 38,
+    "category": "Bakery",
+    "stock": 54
+  },
+  {
+    "id": 66,
+    "name": "Sensodyne Repair 70g (2)",
+    "barcode": "8901000000066",
+    "price": 486,
+    "category": "Personal Care",
+    "stock": 98
+  },
+  {
+    "id": 67,
+    "name": "Dettol Antiseptic 500ml (1)",
+    "barcode": "8901000000067",
+    "price": 439,
+    "category": "Cleaning",
+    "stock": 96
+  },
+  {
+    "id": 68,
+    "name": "McCain French Fries 400g",
+    "barcode": "8901000000068",
+    "price": 778,
+    "category": "Frozen",
+    "stock": 82
+  },
+  {
+    "id": 69,
+    "name": "Fresh Potatoes 1kg (2)",
+    "barcode": "8901000000069",
+    "price": 370,
+    "category": "Produce",
+    "stock": 61
+  },
+  {
+    "id": 70,
+    "name": "Everest Kitchen King 100g (2)",
+    "barcode": "8901000000070",
+    "price": 633,
+    "category": "Spices",
+    "stock": 90
+  },
+  {
+    "id": 71,
+    "name": "Verka Lassi 200ml",
+    "barcode": "8901000000071",
+    "price": 246,
+    "category": "Dairy",
+    "stock": 89
+  },
+  {
+    "id": 72,
+    "name": "Haldiram Moong Dal 200g",
+    "barcode": "8901000000072",
+    "price": 29,
+    "category": "Snacks",
+    "stock": 75
+  },
+  {
+    "id": 73,
+    "name": "Tata Sampann Unpolished Toor Dal 1kg",
+    "barcode": "8901000000073",
+    "price": 57,
+    "category": "Staples",
+    "stock": 9
+  },
+  {
+    "id": 74,
+    "name": "Maaza Mango Drink 600ml",
+    "barcode": "8901000000074",
+    "price": 434,
+    "category": "Beverages",
+    "stock": 63
+  },
+  {
+    "id": 75,
+    "name": "English Oven Garlic Bread 200g",
+    "barcode": "8901000000075",
+    "price": 279,
+    "category": "Bakery",
+    "stock": 94
+  },
+  {
+    "id": 76,
+    "name": "Gillette Guard 3pc (2)",
+    "barcode": "8901000000076",
+    "price": 145,
+    "category": "Personal Care",
+    "stock": 21
+  },
+  {
+    "id": 77,
+    "name": "Surf Excel Matic Top Load 1kg (1)",
+    "barcode": "8901000000077",
+    "price": 14,
+    "category": "Cleaning",
+    "stock": 73
+  },
+  {
+    "id": 78,
+    "name": "Amul Ice Cream Vanilla 1L",
+    "barcode": "8901000000078",
+    "price": 319,
+    "category": "Frozen",
+    "stock": 18
+  },
+  {
+    "id": 79,
+    "name": "Shimla Apples 500g (2)",
+    "barcode": "8901000000079",
+    "price": 519,
+    "category": "Produce",
+    "stock": 33
+  },
+  {
+    "id": 80,
+    "name": "Everest Meat Masala 100g (2)",
+    "barcode": "8901000000080",
+    "price": 610,
+    "category": "Spices",
+    "stock": 61
+  },
+  {
+    "id": 81,
+    "name": "Amul Taaza Milk 500ml",
+    "barcode": "8901000000081",
+    "price": 48,
+    "category": "Dairy",
+    "stock": 5
+  },
+  {
+    "id": 82,
+    "name": "Kurkure Masala Munch 90g",
+    "barcode": "8901000000082",
+    "price": 378,
+    "category": "Snacks",
+    "stock": 56
+  },
+  {
+    "id": 83,
+    "name": "Mother Dairy Cow Ghee 200ml",
+    "barcode": "8901000000083",
+    "price": 214,
+    "category": "Staples",
+    "stock": 21
+  },
+  {
+    "id": 84,
+    "name": "Monster Energy 350ml",
+    "barcode": "8901000000084",
+    "price": 512,
+    "category": "Beverages",
+    "stock": 9
+  },
+  {
+    "id": 85,
+    "name": "Sunfeast Mom's Magic 200g",
+    "barcode": "8901000000085",
+    "price": 791,
+    "category": "Bakery",
+    "stock": 83
+  },
+  {
+    "id": 86,
+    "name": "Colgate Strong Teeth 200g (2)",
+    "barcode": "8901000000086",
+    "price": 722,
+    "category": "Personal Care",
+    "stock": 22
+  },
+  {
+    "id": 87,
+    "name": "Rin Bar 250g (1)",
+    "barcode": "8901000000087",
+    "price": 334,
+    "category": "Cleaning",
+    "stock": 4
+  },
+  {
+    "id": 88,
+    "name": "ITC Master Chef Frozen Paratha 6pc",
+    "barcode": "8901000000088",
+    "price": 692,
+    "category": "Frozen",
+    "stock": 5
+  },
+  {
+    "id": 89,
+    "name": "Spinach Bunch 250g (2)",
+    "barcode": "8901000000089",
+    "price": 240,
+    "category": "Produce",
+    "stock": 59
+  },
+  {
+    "id": 90,
+    "name": "MDH Chana Masala 100g (2)",
+    "barcode": "8901000000090",
+    "price": 224,
+    "category": "Spices",
+    "stock": 65
+  },
+  {
+    "id": 91,
+    "name": "Milky Mist Curd 500g",
+    "barcode": "8901000000091",
+    "price": 785,
+    "category": "Dairy",
+    "stock": 28
+  },
+  {
+    "id": 92,
+    "name": "Haldiram Aloo Bhujia 200g",
+    "barcode": "8901000000092",
+    "price": 37,
+    "category": "Snacks",
+    "stock": 52
+  },
+  {
+    "id": 93,
+    "name": "Aashirvaad Atta 10kg",
+    "barcode": "8901000000093",
+    "price": 263,
+    "category": "Staples",
+    "stock": 12
+  },
+  {
+    "id": 94,
+    "name": "Red Bull 250ml",
+    "barcode": "8901000000094",
+    "price": 227,
+    "category": "Beverages",
+    "stock": 86
+  },
+  {
+    "id": 95,
+    "name": "Britannia Treat Croissant Chocolate 45g",
+    "barcode": "8901000000095",
+    "price": 736,
+    "category": "Bakery",
+    "stock": 59
+  },
+  {
+    "id": 96,
+    "name": "Sensodyne Repair 70g (3)",
+    "barcode": "8901000000096",
+    "price": 353,
+    "category": "Personal Care",
+    "stock": 71
+  },
+  {
+    "id": 97,
+    "name": "Exo Dishwash Bar 700g (1)",
+    "barcode": "8901000000097",
+    "price": 662,
+    "category": "Cleaning",
+    "stock": 44
+  },
+  {
+    "id": 98,
+    "name": "Yummiez Chicken Nuggets 250g (1)",
+    "barcode": "8901000000098",
+    "price": 820,
+    "category": "Frozen",
+    "stock": 22
+  },
+  {
+    "id": 99,
+    "name": "Fresh Potatoes 1kg (3)",
+    "barcode": "8901000000099",
+    "price": 53,
+    "category": "Produce",
+    "stock": 10
+  },
+  {
+    "id": 100,
+    "name": "Everest Kitchen King 100g (3)",
+    "barcode": "8901000000100",
+    "price": 93,
+    "category": "Spices",
+    "stock": 6
+  },
+  {
+    "id": 101,
+    "name": "Amul Mithai Mate 400g",
+    "barcode": "8901000000101",
+    "price": 870,
+    "category": "Dairy",
+    "stock": 72
+  },
+  {
+    "id": 102,
+    "name": "Cadbury Bournville 80g",
+    "barcode": "8901000000102",
+    "price": 134,
+    "category": "Snacks",
+    "stock": 15
+  },
+  {
+    "id": 103,
+    "name": "Fortune Chakki Fresh Atta 5kg",
+    "barcode": "8901000000103",
+    "price": 558,
+    "category": "Staples",
+    "stock": 79
+  },
+  {
+    "id": 104,
+    "name": "Nescafé Classic Coffee 50g",
+    "barcode": "8901000000104",
+    "price": 745,
+    "category": "Beverages",
+    "stock": 69
+  },
+  {
+    "id": 105,
+    "name": "Britannia Brown Bread 400g",
+    "barcode": "8901000000105",
+    "price": 108,
+    "category": "Bakery",
+    "stock": 10
+  },
+  {
+    "id": 106,
+    "name": "Gillette Guard 3pc (3)",
+    "barcode": "8901000000106",
+    "price": 665,
+    "category": "Personal Care",
+    "stock": 89
+  },
+  {
+    "id": 107,
+    "name": "Harpic Power Plus 500ml (1)",
+    "barcode": "8901000000107",
+    "price": 25,
+    "category": "Cleaning",
+    "stock": 65
+  },
+  {
+    "id": 108,
+    "name": "Safal Frozen Green Peas 500g (1)",
+    "barcode": "8901000000108",
+    "price": 527,
+    "category": "Frozen",
+    "stock": 35
+  },
+  {
+    "id": 109,
+    "name": "Shimla Apples 500g (3)",
+    "barcode": "8901000000109",
+    "price": 302,
+    "category": "Produce",
+    "stock": 16
+  },
+  {
+    "id": 110,
+    "name": "Everest Meat Masala 100g (3)",
+    "barcode": "8901000000110",
+    "price": 225,
+    "category": "Spices",
+    "stock": 12
+  },
+  {
+    "id": 111,
+    "name": "Amul Lassi Mango 200ml",
+    "barcode": "8901000000111",
+    "price": 134,
+    "category": "Dairy",
+    "stock": 8
+  },
+  {
+    "id": 112,
+    "name": "Uncle Chips Spicy Treat 55g",
+    "barcode": "8901000000112",
+    "price": 841,
+    "category": "Snacks",
+    "stock": 2
+  },
+  {
+    "id": 113,
+    "name": "Fortune Mustard Oil 1L",
+    "barcode": "8901000000113",
+    "price": 409,
+    "category": "Staples",
+    "stock": 73
+  },
+  {
+    "id": 114,
+    "name": "Bisleri Water 1L (1)",
+    "barcode": "8901000000114",
+    "price": 48,
+    "category": "Beverages",
+    "stock": 40
+  },
+  {
+    "id": 115,
+    "name": "Modern Sandwich Bread 400g (1)",
+    "barcode": "8901000000115",
+    "price": 464,
+    "category": "Bakery",
+    "stock": 56
+  },
+  {
+    "id": 116,
+    "name": "Colgate Strong Teeth 200g (3)",
+    "barcode": "8901000000116",
+    "price": 232,
+    "category": "Personal Care",
+    "stock": 36
+  },
+  {
+    "id": 117,
+    "name": "Lizol Citrus 975ml (1)",
+    "barcode": "8901000000117",
+    "price": 555,
+    "category": "Cleaning",
+    "stock": 49
+  },
+  {
+    "id": 118,
+    "name": "Fresho Frozen Mixed Veg 500g (1)",
+    "barcode": "8901000000118",
+    "price": 795,
+    "category": "Frozen",
+    "stock": 38
+  },
+  {
+    "id": 119,
+    "name": "Spinach Bunch 250g (3)",
+    "barcode": "8901000000119",
+    "price": 495,
+    "category": "Produce",
+    "stock": 53
+  },
+  {
+    "id": 120,
+    "name": "MDH Chana Masala 100g (3)",
+    "barcode": "8901000000120",
+    "price": 80,
+    "category": "Spices",
+    "stock": 64
+  },
+  {
+    "id": 121,
+    "name": "Amul Masti Dahi 400g",
+    "barcode": "8901000000121",
+    "price": 726,
+    "category": "Dairy",
+    "stock": 13
+  },
+  {
+    "id": 122,
+    "name": "Nutraj California Almonds 200g (1)",
+    "barcode": "8901000000122",
+    "price": 499,
+    "category": "Snacks",
+    "stock": 17
+  },
+  {
+    "id": 123,
+    "name": "Rajdhani Chana Dal 500g (1)",
+    "barcode": "8901000000123",
+    "price": 86,
+    "category": "Staples",
+    "stock": 24
+  },
+  {
+    "id": 124,
+    "name": "Tata Tea Gold 250g (1)",
+    "barcode": "8901000000124",
+    "price": 287,
+    "category": "Beverages",
+    "stock": 5
+  },
+  {
+    "id": 125,
+    "name": "Britannia Rusk 200g (1)",
+    "barcode": "8901000000125",
+    "price": 471,
+    "category": "Bakery",
+    "stock": 20
+  },
+  {
+    "id": 126,
+    "name": "Sensodyne Repair 70g (4)",
+    "barcode": "8901000000126",
+    "price": 13,
+    "category": "Personal Care",
+    "stock": 2
+  },
+  {
+    "id": 127,
+    "name": "Dettol Antiseptic 500ml (2)",
+    "barcode": "8901000000127",
+    "price": 351,
+    "category": "Cleaning",
+    "stock": 87
+  },
+  {
+    "id": 128,
+    "name": "McCain Smiles 415g (1)",
+    "barcode": "8901000000128",
+    "price": 507,
+    "category": "Frozen",
+    "stock": 82
+  },
+  {
+    "id": 129,
+    "name": "Fresh Potatoes 1kg (4)",
+    "barcode": "8901000000129",
+    "price": 665,
+    "category": "Produce",
+    "stock": 74
+  },
+  {
+    "id": 130,
+    "name": "Everest Kitchen King 100g (4)",
+    "barcode": "8901000000130",
+    "price": 310,
+    "category": "Spices",
+    "stock": 35
+  },
+  {
+    "id": 131,
+    "name": "Britannia Cheese Spread 180g",
+    "barcode": "8901000000131",
+    "price": 236,
+    "category": "Dairy",
+    "stock": 14
+  },
+  {
+    "id": 132,
+    "name": "Britannia Good Day 200g (1)",
+    "barcode": "8901000000132",
+    "price": 95,
+    "category": "Snacks",
+    "stock": 58
+  },
+  {
+    "id": 133,
+    "name": "Daawat Basmati Rice 1kg (1)",
+    "barcode": "8901000000133",
+    "price": 818,
+    "category": "Staples",
+    "stock": 74
+  },
+  {
+    "id": 134,
+    "name": "Bru Instant Coffee 100g (1)",
+    "barcode": "8901000000134",
+    "price": 320,
+    "category": "Beverages",
+    "stock": 10
+  },
+  {
+    "id": 135,
+    "name": "Britannia Whole Wheat Bread 450g (1)",
+    "barcode": "8901000000135",
+    "price": 16,
+    "category": "Bakery",
+    "stock": 37
+  },
+  {
+    "id": 136,
+    "name": "Gillette Guard 3pc (4)",
+    "barcode": "8901000000136",
+    "price": 489,
+    "category": "Personal Care",
+    "stock": 16
+  },
+  {
+    "id": 137,
+    "name": "Surf Excel Matic Top Load 1kg (2)",
+    "barcode": "8901000000137",
+    "price": 176,
+    "category": "Cleaning",
+    "stock": 29
+  },
+  {
+    "id": 138,
+    "name": "Mother Dairy Kulfi 6pc (1)",
+    "barcode": "8901000000138",
+    "price": 521,
+    "category": "Frozen",
+    "stock": 23
+  },
+  {
+    "id": 139,
+    "name": "Shimla Apples 500g (4)",
+    "barcode": "8901000000139",
+    "price": 60,
+    "category": "Produce",
+    "stock": 60
+  },
+  {
+    "id": 140,
+    "name": "Everest Meat Masala 100g (4)",
+    "barcode": "8901000000140",
+    "price": 143,
+    "category": "Spices",
+    "stock": 89
+  },
+  {
+    "id": 141,
+    "name": "Nestlé Everyday Dairy Whitener 400g",
+    "barcode": "8901000000141",
+    "price": 128,
+    "category": "Dairy",
+    "stock": 73
+  },
+  {
+    "id": 142,
+    "name": "Yippee Noodles 60g (1)",
+    "barcode": "8901000000142",
+    "price": 304,
+    "category": "Snacks",
+    "stock": 46
+  },
+  {
+    "id": 143,
+    "name": "India Gate Basmati Rice 5kg (1)",
+    "barcode": "8901000000143",
+    "price": 814,
+    "category": "Staples",
+    "stock": 51
+  },
+  {
+    "id": 144,
+    "name": "Red Label Tea 250g (1)",
+    "barcode": "8901000000144",
+    "price": 712,
+    "category": "Beverages",
+    "stock": 67
+  },
+  {
+    "id": 145,
+    "name": "Parle Hide & Seek 120g (1)",
+    "barcode": "8901000000145",
+    "price": 356,
+    "category": "Bakery",
+    "stock": 18
+  },
+  {
+    "id": 146,
+    "name": "Colgate Strong Teeth 200g (4)",
+    "barcode": "8901000000146",
+    "price": 132,
+    "category": "Personal Care",
+    "stock": 95
+  },
+  {
+    "id": 147,
+    "name": "Rin Bar 250g (2)",
+    "barcode": "8901000000147",
+    "price": 817,
+    "category": "Cleaning",
+    "stock": 45
+  },
+  {
+    "id": 148,
+    "name": "Kwality Walls Magnum Classic 80ml (1)",
+    "barcode": "8901000000148",
+    "price": 128,
+    "category": "Frozen",
+    "stock": 75
+  },
+  {
+    "id": 149,
+    "name": "Spinach Bunch 250g (4)",
+    "barcode": "8901000000149",
+    "price": 505,
+    "category": "Produce",
+    "stock": 73
+  },
+  {
+    "id": 150,
+    "name": "MDH Chana Masala 100g (4)",
+    "barcode": "8901000000150",
+    "price": 427,
+    "category": "Spices",
+    "stock": 73
+  },
+  {
+    "id": 151,
+    "name": "Amul Gold Milk 1L",
+    "barcode": "8901000000151",
+    "price": 120,
+    "category": "Dairy",
+    "stock": 38
+  },
+  {
+    "id": 152,
+    "name": "Sunfeast Dark Fantasy Choco 150g (1)",
+    "barcode": "8901000000152",
+    "price": 774,
+    "category": "Snacks",
+    "stock": 59
+  },
+  {
+    "id": 153,
+    "name": "Aashirvaad Superior Atta 5kg (1)",
+    "barcode": "8901000000153",
+    "price": 889,
+    "category": "Staples",
+    "stock": 95
+  },
+  {
+    "id": 154,
+    "name": "Slice Mango 600ml (1)",
+    "barcode": "8901000000154",
+    "price": 790,
+    "category": "Beverages",
+    "stock": 37
+  },
+  {
+    "id": 155,
+    "name": "Britannia Nice Time 150g (1)",
+    "barcode": "8901000000155",
+    "price": 745,
+    "category": "Bakery",
+    "stock": 82
+  },
+  {
+    "id": 156,
+    "name": "Sensodyne Repair 70g (5)",
+    "barcode": "8901000000156",
+    "price": 262,
+    "category": "Personal Care",
+    "stock": 95
+  },
+  {
+    "id": 157,
+    "name": "Exo Dishwash Bar 700g (2)",
+    "barcode": "8901000000157",
+    "price": 335,
+    "category": "Cleaning",
+    "stock": 81
+  },
+  {
+    "id": 158,
+    "name": "McCain French Fries 400g (1)",
+    "barcode": "8901000000158",
+    "price": 96,
+    "category": "Frozen",
+    "stock": 65
+  },
+  {
+    "id": 159,
+    "name": "Fresh Potatoes 1kg (5)",
+    "barcode": "8901000000159",
+    "price": 430,
+    "category": "Produce",
+    "stock": 28
+  },
+  {
+    "id": 160,
+    "name": "Everest Kitchen King 100g (5)",
+    "barcode": "8901000000160",
+    "price": 445,
+    "category": "Spices",
+    "stock": 58
+  },
+  {
+    "id": 161,
+    "name": "Amul Ghee 500ml",
+    "barcode": "8901000000161",
+    "price": 798,
+    "category": "Dairy",
+    "stock": 76
+  },
+  {
+    "id": 162,
+    "name": "Lay's Magic Masala 52g (1)",
+    "barcode": "8901000000162",
+    "price": 296,
+    "category": "Snacks",
+    "stock": 66
+  },
+  {
+    "id": 163,
+    "name": "Fortune Besan 500g (1)",
+    "barcode": "8901000000163",
+    "price": 604,
+    "category": "Staples",
+    "stock": 90
+  },
+  {
+    "id": 164,
+    "name": "Nescafé Sunrise 200g (1)",
+    "barcode": "8901000000164",
+    "price": 706,
+    "category": "Beverages",
+    "stock": 75
+  },
+  {
+    "id": 165,
+    "name": "Britannia Fruit Cake 150g (1)",
+    "barcode": "8901000000165",
+    "price": 407,
+    "category": "Bakery",
+    "stock": 98
+  },
+  {
+    "id": 166,
+    "name": "Gillette Guard 3pc (5)",
+    "barcode": "8901000000166",
+    "price": 405,
+    "category": "Personal Care",
+    "stock": 3
+  },
+  {
+    "id": 167,
+    "name": "Harpic Power Plus 500ml (2)",
+    "barcode": "8901000000167",
+    "price": 514,
+    "category": "Cleaning",
+    "stock": 40
+  },
+  {
+    "id": 168,
+    "name": "Amul Ice Cream Vanilla 1L (1)",
+    "barcode": "8901000000168",
+    "price": 808,
+    "category": "Frozen",
+    "stock": 65
+  },
+  {
+    "id": 169,
+    "name": "Shimla Apples 500g (5)",
+    "barcode": "8901000000169",
+    "price": 818,
+    "category": "Produce",
+    "stock": 82
+  },
+  {
+    "id": 170,
+    "name": "Everest Meat Masala 100g (5)",
+    "barcode": "8901000000170",
+    "price": 116,
+    "category": "Spices",
+    "stock": 17
+  },
+  {
+    "id": 171,
+    "name": "Britannia Cubes Cheese 200g",
+    "barcode": "8901000000171",
+    "price": 84,
+    "category": "Dairy",
+    "stock": 90
+  },
+  {
+    "id": 172,
+    "name": "Lays Classic Salted 52g (1)",
+    "barcode": "8901000000172",
+    "price": 40,
+    "category": "Snacks",
+    "stock": 94
+  },
+  {
+    "id": 173,
+    "name": "Fortune Maida 1kg (1)",
+    "barcode": "8901000000173",
+    "price": 386,
+    "category": "Staples",
+    "stock": 35
+  },
+  {
+    "id": 174,
+    "name": "Coca-Cola 750ml (1)",
+    "barcode": "8901000000174",
+    "price": 94,
+    "category": "Beverages",
+    "stock": 44
+  },
+  {
+    "id": 175,
+    "name": "Britannia Marie Gold 250g (1)",
+    "barcode": "8901000000175",
+    "price": 126,
+    "category": "Bakery",
+    "stock": 67
+  },
+  {
+    "id": 176,
+    "name": "Colgate Strong Teeth 200g (5)",
+    "barcode": "8901000000176",
+    "price": 495,
+    "category": "Personal Care",
+    "stock": 12
+  },
+  {
+    "id": 177,
+    "name": "Lizol Citrus 975ml (2)",
+    "barcode": "8901000000177",
+    "price": 134,
+    "category": "Cleaning",
+    "stock": 82
+  },
+  {
+    "id": 178,
+    "name": "ITC Master Chef Frozen Paratha 6pc (1)",
+    "barcode": "8901000000178",
+    "price": 580,
+    "category": "Frozen",
+    "stock": 99
+  },
+  {
+    "id": 179,
+    "name": "Spinach Bunch 250g (5)",
+    "barcode": "8901000000179",
+    "price": 483,
+    "category": "Produce",
+    "stock": 10
+  },
+  {
+    "id": 180,
+    "name": "MDH Chana Masala 100g (5)",
+    "barcode": "8901000000180",
+    "price": 623,
+    "category": "Spices",
+    "stock": 26
+  },
+  {
+    "id": 181,
+    "name": "Amul Paneer 200g",
+    "barcode": "8901000000181",
+    "price": 130,
+    "category": "Dairy",
+    "stock": 25
+  },
+  {
+    "id": 182,
+    "name": "Maggi 2-Minute Noodles 70g (1)",
+    "barcode": "8901000000182",
+    "price": 708,
+    "category": "Snacks",
+    "stock": 31
+  },
+  {
+    "id": 183,
+    "name": "Dhampure Sulphurless Sugar 1kg (1)",
+    "barcode": "8901000000183",
+    "price": 713,
+    "category": "Staples",
+    "stock": 10
+  },
+  {
+    "id": 184,
+    "name": "Maaza Mango Drink 600ml (1)",
+    "barcode": "8901000000184",
+    "price": 715,
+    "category": "Beverages",
+    "stock": 96
+  },
+  {
+    "id": 185,
+    "name": "English Oven Garlic Bread 200g (1)",
+    "barcode": "8901000000185",
+    "price": 650,
+    "category": "Bakery",
+    "stock": 90
+  },
+  {
+    "id": 186,
+    "name": "Sensodyne Repair 70g (6)",
+    "barcode": "8901000000186",
+    "price": 511,
+    "category": "Personal Care",
+    "stock": 82
+  },
+  {
+    "id": 187,
+    "name": "Dettol Antiseptic 500ml (3)",
+    "barcode": "8901000000187",
+    "price": 522,
+    "category": "Cleaning",
+    "stock": 3
+  },
+  {
+    "id": 188,
+    "name": "Yummiez Chicken Nuggets 250g (2)",
+    "barcode": "8901000000188",
+    "price": 232,
+    "category": "Frozen",
+    "stock": 21
+  },
+  {
+    "id": 189,
+    "name": "Fresh Potatoes 1kg (6)",
+    "barcode": "8901000000189",
+    "price": 862,
+    "category": "Produce",
+    "stock": 0
+  },
+  {
+    "id": 190,
+    "name": "Everest Kitchen King 100g (6)",
+    "barcode": "8901000000190",
+    "price": 610,
+    "category": "Spices",
+    "stock": 43
+  },
+  {
+    "id": 191,
+    "name": "Mother Dairy Dahi 400g",
+    "barcode": "8901000000191",
+    "price": 256,
+    "category": "Dairy",
+    "stock": 62
+  },
+  {
+    "id": 192,
+    "name": "Haldiram Moong Dal 200g (1)",
+    "barcode": "8901000000192",
+    "price": 660,
+    "category": "Snacks",
+    "stock": 82
+  },
+  {
+    "id": 193,
+    "name": "Tata Sampann Unpolished Toor Dal 1kg (1)",
+    "barcode": "8901000000193",
+    "price": 650,
+    "category": "Staples",
+    "stock": 57
+  },
+  {
+    "id": 194,
+    "name": "Monster Energy 350ml (1)",
+    "barcode": "8901000000194",
+    "price": 709,
+    "category": "Beverages",
+    "stock": 51
+  },
+  {
+    "id": 195,
+    "name": "Sunfeast Mom's Magic 200g (1)",
+    "barcode": "8901000000195",
+    "price": 41,
+    "category": "Bakery",
+    "stock": 3
+  },
+  {
+    "id": 196,
+    "name": "Gillette Guard 3pc (6)",
+    "barcode": "8901000000196",
+    "price": 140,
+    "category": "Personal Care",
+    "stock": 41
+  },
+  {
+    "id": 197,
+    "name": "Surf Excel Matic Top Load 1kg (3)",
+    "barcode": "8901000000197",
+    "price": 372,
+    "category": "Cleaning",
+    "stock": 76
+  },
+  {
+    "id": 198,
+    "name": "Safal Frozen Green Peas 500g (2)",
+    "barcode": "8901000000198",
+    "price": 842,
+    "category": "Frozen",
+    "stock": 0
+  },
+  {
+    "id": 199,
+    "name": "Shimla Apples 500g (6)",
+    "barcode": "8901000000199",
+    "price": 411,
+    "category": "Produce",
+    "stock": 86
+  },
+  {
+    "id": 200,
+    "name": "Everest Meat Masala 100g (6)",
+    "barcode": "8901000000200",
+    "price": 417,
+    "category": "Spices",
+    "stock": 40
+  },
+  {
+    "id": 201,
+    "name": "Mother Dairy Buttermilk 200ml",
+    "barcode": "8901000000201",
+    "price": 598,
+    "category": "Dairy",
+    "stock": 40
+  },
+  {
+    "id": 202,
+    "name": "Kurkure Masala Munch 90g (1)",
+    "barcode": "8901000000202",
+    "price": 408,
+    "category": "Snacks",
+    "stock": 10
+  },
+  {
+    "id": 203,
+    "name": "Mother Dairy Cow Ghee 200ml (1)",
+    "barcode": "8901000000203",
+    "price": 199,
+    "category": "Staples",
+    "stock": 31
+  },
+  {
+    "id": 204,
+    "name": "Red Bull 250ml (1)",
+    "barcode": "8901000000204",
+    "price": 133,
+    "category": "Beverages",
+    "stock": 35
+  },
+  {
+    "id": 205,
+    "name": "Britannia Treat Croissant Chocolate 45g (1)",
+    "barcode": "8901000000205",
+    "price": 537,
+    "category": "Bakery",
+    "stock": 99
+  },
+  {
+    "id": 206,
+    "name": "Colgate Strong Teeth 200g (6)",
+    "barcode": "8901000000206",
+    "price": 368,
+    "category": "Personal Care",
+    "stock": 28
+  },
+  {
+    "id": 207,
+    "name": "Rin Bar 250g (3)",
+    "barcode": "8901000000207",
+    "price": 660,
+    "category": "Cleaning",
+    "stock": 34
+  },
+  {
+    "id": 208,
+    "name": "Fresho Frozen Mixed Veg 500g (2)",
+    "barcode": "8901000000208",
+    "price": 121,
+    "category": "Frozen",
+    "stock": 13
+  },
+  {
+    "id": 209,
+    "name": "Spinach Bunch 250g (6)",
+    "barcode": "8901000000209",
+    "price": 803,
+    "category": "Produce",
+    "stock": 73
+  },
+  {
+    "id": 210,
+    "name": "MDH Chana Masala 100g (6)",
+    "barcode": "8901000000210",
+    "price": 336,
+    "category": "Spices",
+    "stock": 50
+  },
+  {
+    "id": 211,
+    "name": "Epigamia Greek Yogurt 90g (1)",
+    "barcode": "8901000000211",
+    "price": 330,
+    "category": "Dairy",
+    "stock": 6
+  },
+  {
+    "id": 212,
+    "name": "Haldiram Aloo Bhujia 200g (1)",
+    "barcode": "8901000000212",
+    "price": 342,
+    "category": "Snacks",
+    "stock": 20
+  },
+  {
+    "id": 213,
+    "name": "Aashirvaad Atta 10kg (1)",
+    "barcode": "8901000000213",
+    "price": 732,
+    "category": "Staples",
+    "stock": 12
+  },
+  {
+    "id": 214,
+    "name": "Nescafé Classic Coffee 50g (1)",
+    "barcode": "8901000000214",
+    "price": 607,
+    "category": "Beverages",
+    "stock": 36
+  },
+  {
+    "id": 215,
+    "name": "Britannia Brown Bread 400g (1)",
+    "barcode": "8901000000215",
+    "price": 233,
+    "category": "Bakery",
+    "stock": 96
+  },
+  {
+    "id": 216,
+    "name": "Sensodyne Repair 70g (7)",
+    "barcode": "8901000000216",
+    "price": 674,
+    "category": "Personal Care",
+    "stock": 11
+  },
+  {
+    "id": 217,
+    "name": "Exo Dishwash Bar 700g (3)",
+    "barcode": "8901000000217",
+    "price": 857,
+    "category": "Cleaning",
+    "stock": 6
+  },
+  {
+    "id": 218,
+    "name": "McCain Smiles 415g (2)",
+    "barcode": "8901000000218",
+    "price": 893,
+    "category": "Frozen",
+    "stock": 81
+  },
+  {
+    "id": 219,
+    "name": "Fresh Potatoes 1kg (7)",
+    "barcode": "8901000000219",
+    "price": 718,
+    "category": "Produce",
+    "stock": 28
+  },
+  {
+    "id": 220,
+    "name": "Everest Kitchen King 100g (7)",
+    "barcode": "8901000000220",
+    "price": 277,
+    "category": "Spices",
+    "stock": 33
+  },
+  {
+    "id": 221,
+    "name": "Amul Butter 100g (1)",
+    "barcode": "8901000000221",
+    "price": 741,
+    "category": "Dairy",
+    "stock": 12
+  },
+  {
+    "id": 222,
+    "name": "Cadbury Bournville 80g (1)",
+    "barcode": "8901000000222",
+    "price": 223,
+    "category": "Snacks",
+    "stock": 64
+  },
+  {
+    "id": 223,
+    "name": "Fortune Chakki Fresh Atta 5kg (1)",
+    "barcode": "8901000000223",
+    "price": 876,
+    "category": "Staples",
+    "stock": 79
+  },
+  {
+    "id": 224,
+    "name": "Bisleri Water 1L (2)",
+    "barcode": "8901000000224",
+    "price": 626,
+    "category": "Beverages",
+    "stock": 90
+  },
+  {
+    "id": 225,
+    "name": "Modern Sandwich Bread 400g (2)",
+    "barcode": "8901000000225",
+    "price": 331,
+    "category": "Bakery",
+    "stock": 97
+  },
+  {
+    "id": 226,
+    "name": "Gillette Guard 3pc (7)",
+    "barcode": "8901000000226",
+    "price": 782,
+    "category": "Personal Care",
+    "stock": 77
+  },
+  {
+    "id": 227,
+    "name": "Harpic Power Plus 500ml (3)",
+    "barcode": "8901000000227",
+    "price": 302,
+    "category": "Cleaning",
+    "stock": 25
+  },
+  {
+    "id": 228,
+    "name": "Mother Dairy Kulfi 6pc (2)",
+    "barcode": "8901000000228",
+    "price": 320,
+    "category": "Frozen",
+    "stock": 67
+  },
+  {
+    "id": 229,
+    "name": "Shimla Apples 500g (7)",
+    "barcode": "8901000000229",
+    "price": 221,
+    "category": "Produce",
+    "stock": 52
+  },
+  {
+    "id": 230,
+    "name": "Everest Meat Masala 100g (7)",
+    "barcode": "8901000000230",
+    "price": 417,
+    "category": "Spices",
+    "stock": 44
+  },
+  {
+    "id": 231,
+    "name": "Nestlé Milkmaid 400g (1)",
+    "barcode": "8901000000231",
+    "price": 529,
+    "category": "Dairy",
+    "stock": 58
+  },
+  {
+    "id": 232,
+    "name": "Uncle Chips Spicy Treat 55g (1)",
+    "barcode": "8901000000232",
+    "price": 127,
+    "category": "Snacks",
+    "stock": 96
+  },
+  {
+    "id": 233,
+    "name": "Fortune Mustard Oil 1L (1)",
+    "barcode": "8901000000233",
+    "price": 587,
+    "category": "Staples",
+    "stock": 3
+  },
+  {
+    "id": 234,
+    "name": "Tata Tea Gold 250g (2)",
+    "barcode": "8901000000234",
+    "price": 686,
+    "category": "Beverages",
+    "stock": 91
+  },
+  {
+    "id": 235,
+    "name": "Britannia Rusk 200g (2)",
+    "barcode": "8901000000235",
+    "price": 574,
+    "category": "Bakery",
+    "stock": 0
+  },
+  {
+    "id": 236,
+    "name": "Colgate Strong Teeth 200g (7)",
+    "barcode": "8901000000236",
+    "price": 789,
+    "category": "Personal Care",
+    "stock": 47
+  },
+  {
+    "id": 237,
+    "name": "Lizol Citrus 975ml (3)",
+    "barcode": "8901000000237",
+    "price": 477,
+    "category": "Cleaning",
+    "stock": 20
+  },
+  {
+    "id": 238,
+    "name": "Kwality Walls Magnum Classic 80ml (2)",
+    "barcode": "8901000000238",
+    "price": 90,
+    "category": "Frozen",
+    "stock": 5
+  },
+  {
+    "id": 239,
+    "name": "Spinach Bunch 250g (7)",
+    "barcode": "8901000000239",
+    "price": 569,
+    "category": "Produce",
+    "stock": 86
+  },
+  {
+    "id": 240,
+    "name": "MDH Chana Masala 100g (7)",
+    "barcode": "8901000000240",
+    "price": 114,
+    "category": "Spices",
+    "stock": 88
+  },
+  {
+    "id": 241,
+    "name": "Nandini Ghee 500ml (1)",
+    "barcode": "8901000000241",
+    "price": 365,
+    "category": "Dairy",
+    "stock": 65
+  },
+  {
+    "id": 242,
+    "name": "Nutraj California Almonds 200g (2)",
+    "barcode": "8901000000242",
+    "price": 506,
+    "category": "Snacks",
+    "stock": 37
+  },
+  {
+    "id": 243,
+    "name": "Rajdhani Chana Dal 500g (2)",
+    "barcode": "8901000000243",
+    "price": 730,
+    "category": "Staples",
+    "stock": 29
+  },
+  {
+    "id": 244,
+    "name": "Bru Instant Coffee 100g (2)",
+    "barcode": "8901000000244",
+    "price": 59,
+    "category": "Beverages",
+    "stock": 37
+  },
+  {
+    "id": 245,
+    "name": "Britannia Whole Wheat Bread 450g (2)",
+    "barcode": "8901000000245",
+    "price": 787,
+    "category": "Bakery",
+    "stock": 62
+  },
+  {
+    "id": 246,
+    "name": "Sensodyne Repair 70g (8)",
+    "barcode": "8901000000246",
+    "price": 541,
+    "category": "Personal Care",
+    "stock": 85
+  },
+  {
+    "id": 247,
+    "name": "Dettol Antiseptic 500ml (4)",
+    "barcode": "8901000000247",
+    "price": 647,
+    "category": "Cleaning",
+    "stock": 28
+  },
+  {
+    "id": 248,
+    "name": "McCain French Fries 400g (2)",
+    "barcode": "8901000000248",
+    "price": 672,
+    "category": "Frozen",
+    "stock": 15
+  },
+  {
+    "id": 249,
+    "name": "Fresh Potatoes 1kg (8)",
+    "barcode": "8901000000249",
+    "price": 231,
+    "category": "Produce",
+    "stock": 75
+  },
+  {
+    "id": 250,
+    "name": "Everest Kitchen King 100g (8)",
+    "barcode": "8901000000250",
+    "price": 663,
+    "category": "Spices",
+    "stock": 84
+  },
+  {
+    "id": 251,
+    "name": "Britannia Cheese Slices 200g (1)",
+    "barcode": "8901000000251",
+    "price": 77,
+    "category": "Dairy",
+    "stock": 20
+  },
+  {
+    "id": 252,
+    "name": "Britannia Good Day 200g (2)",
+    "barcode": "8901000000252",
+    "price": 58,
+    "category": "Snacks",
+    "stock": 80
+  },
+  {
+    "id": 253,
+    "name": "Daawat Basmati Rice 1kg (2)",
+    "barcode": "8901000000253",
+    "price": 731,
+    "category": "Staples",
+    "stock": 50
+  },
+  {
+    "id": 254,
+    "name": "Red Label Tea 250g (2)",
+    "barcode": "8901000000254",
+    "price": 620,
+    "category": "Beverages",
+    "stock": 78
+  },
+  {
+    "id": 255,
+    "name": "Parle Hide & Seek 120g (2)",
+    "barcode": "8901000000255",
+    "price": 574,
+    "category": "Bakery",
+    "stock": 39
+  },
+  {
+    "id": 256,
+    "name": "Gillette Guard 3pc (8)",
+    "barcode": "8901000000256",
+    "price": 657,
+    "category": "Personal Care",
+    "stock": 52
+  },
+  {
+    "id": 257,
+    "name": "Surf Excel Matic Top Load 1kg (4)",
+    "barcode": "8901000000257",
+    "price": 800,
+    "category": "Cleaning",
+    "stock": 28
+  },
+  {
+    "id": 258,
+    "name": "Amul Ice Cream Vanilla 1L (2)",
+    "barcode": "8901000000258",
+    "price": 102,
+    "category": "Frozen",
+    "stock": 24
+  },
+  {
+    "id": 259,
+    "name": "Shimla Apples 500g (8)",
+    "barcode": "8901000000259",
+    "price": 345,
+    "category": "Produce",
+    "stock": 15
+  },
+  {
+    "id": 260,
+    "name": "Everest Meat Masala 100g (8)",
+    "barcode": "8901000000260",
+    "price": 702,
+    "category": "Spices",
+    "stock": 95
+  },
+  {
+    "id": 261,
+    "name": "Amul Fresh Cream 250ml (1)",
+    "barcode": "8901000000261",
+    "price": 16,
+    "category": "Dairy",
+    "stock": 11
+  },
+  {
+    "id": 262,
+    "name": "Yippee Noodles 60g (2)",
+    "barcode": "8901000000262",
+    "price": 520,
+    "category": "Snacks",
+    "stock": 42
+  },
+  {
+    "id": 263,
+    "name": "India Gate Basmati Rice 5kg (2)",
+    "barcode": "8901000000263",
+    "price": 614,
+    "category": "Staples",
+    "stock": 1
+  },
+  {
+    "id": 264,
+    "name": "Slice Mango 600ml (2)",
+    "barcode": "8901000000264",
+    "price": 743,
+    "category": "Beverages",
+    "stock": 97
+  },
+  {
+    "id": 265,
+    "name": "Britannia Nice Time 150g (2)",
+    "barcode": "8901000000265",
+    "price": 222,
+    "category": "Bakery",
+    "stock": 75
+  },
+  {
+    "id": 266,
+    "name": "Colgate Strong Teeth 200g (8)",
+    "barcode": "8901000000266",
+    "price": 655,
+    "category": "Personal Care",
+    "stock": 71
+  },
+  {
+    "id": 267,
+    "name": "Rin Bar 250g (4)",
+    "barcode": "8901000000267",
+    "price": 530,
+    "category": "Cleaning",
+    "stock": 60
+  },
+  {
+    "id": 268,
+    "name": "ITC Master Chef Frozen Paratha 6pc (2)",
+    "barcode": "8901000000268",
+    "price": 888,
+    "category": "Frozen",
+    "stock": 27
+  },
+  {
+    "id": 269,
+    "name": "Spinach Bunch 250g (8)",
+    "barcode": "8901000000269",
+    "price": 461,
+    "category": "Produce",
+    "stock": 7
+  },
+  {
+    "id": 270,
+    "name": "MDH Chana Masala 100g (8)",
+    "barcode": "8901000000270",
+    "price": 42,
+    "category": "Spices",
+    "stock": 8
+  },
+  {
+    "id": 271,
+    "name": "Mother Dairy Full Cream 1L (1)",
+    "barcode": "8901000000271",
+    "price": 816,
+    "category": "Dairy",
+    "stock": 29
+  },
+  {
+    "id": 272,
+    "name": "Sunfeast Dark Fantasy Choco 150g (2)",
+    "barcode": "8901000000272",
+    "price": 561,
+    "category": "Snacks",
+    "stock": 34
+  },
+  {
+    "id": 273,
+    "name": "Aashirvaad Superior Atta 5kg (2)",
+    "barcode": "8901000000273",
+    "price": 642,
+    "category": "Staples",
+    "stock": 32
+  },
+  {
+    "id": 274,
+    "name": "Nescafé Sunrise 200g (2)",
+    "barcode": "8901000000274",
+    "price": 281,
+    "category": "Beverages",
+    "stock": 90
+  },
+  {
+    "id": 275,
+    "name": "Britannia Fruit Cake 150g (2)",
+    "barcode": "8901000000275",
+    "price": 682,
+    "category": "Bakery",
+    "stock": 54
+  },
+  {
+    "id": 276,
+    "name": "Sensodyne Repair 70g (9)",
+    "barcode": "8901000000276",
+    "price": 369,
+    "category": "Personal Care",
+    "stock": 84
+  },
+  {
+    "id": 277,
+    "name": "Exo Dishwash Bar 700g (4)",
+    "barcode": "8901000000277",
+    "price": 534,
+    "category": "Cleaning",
+    "stock": 43
+  },
+  {
+    "id": 278,
+    "name": "Yummiez Chicken Nuggets 250g (3)",
+    "barcode": "8901000000278",
+    "price": 780,
+    "category": "Frozen",
+    "stock": 55
+  },
+  {
+    "id": 279,
+    "name": "Fresh Potatoes 1kg (9)",
+    "barcode": "8901000000279",
+    "price": 774,
+    "category": "Produce",
+    "stock": 78
+  },
+  {
+    "id": 280,
+    "name": "Everest Kitchen King 100g (9)",
+    "barcode": "8901000000280",
+    "price": 828,
+    "category": "Spices",
+    "stock": 5
+  },
+  {
+    "id": 281,
+    "name": "Verka Lassi 200ml (1)",
+    "barcode": "8901000000281",
+    "price": 165,
+    "category": "Dairy",
+    "stock": 30
+  },
+  {
+    "id": 282,
+    "name": "Lay's Magic Masala 52g (2)",
+    "barcode": "8901000000282",
+    "price": 564,
+    "category": "Snacks",
+    "stock": 86
+  },
+  {
+    "id": 283,
+    "name": "Fortune Besan 500g (2)",
+    "barcode": "8901000000283",
+    "price": 757,
+    "category": "Staples",
+    "stock": 28
+  },
+  {
+    "id": 284,
+    "name": "Coca-Cola 750ml (2)",
+    "barcode": "8901000000284",
+    "price": 767,
+    "category": "Beverages",
+    "stock": 68
+  },
+  {
+    "id": 285,
+    "name": "Britannia Marie Gold 250g (2)",
+    "barcode": "8901000000285",
+    "price": 82,
+    "category": "Bakery",
+    "stock": 44
+  },
+  {
+    "id": 286,
+    "name": "Gillette Guard 3pc (9)",
+    "barcode": "8901000000286",
+    "price": 590,
+    "category": "Personal Care",
+    "stock": 97
+  },
+  {
+    "id": 287,
+    "name": "Harpic Power Plus 500ml (4)",
+    "barcode": "8901000000287",
+    "price": 242,
+    "category": "Cleaning",
+    "stock": 37
+  },
+  {
+    "id": 288,
+    "name": "Safal Frozen Green Peas 500g (3)",
+    "barcode": "8901000000288",
+    "price": 81,
+    "category": "Frozen",
+    "stock": 29
+  },
+  {
+    "id": 289,
+    "name": "Shimla Apples 500g (9)",
+    "barcode": "8901000000289",
+    "price": 115,
+    "category": "Produce",
+    "stock": 68
+  },
+  {
+    "id": 290,
+    "name": "Everest Meat Masala 100g (9)",
+    "barcode": "8901000000290",
+    "price": 512,
+    "category": "Spices",
+    "stock": 18
+  },
+  {
+    "id": 291,
+    "name": "Amul Taaza Milk 500ml (1)",
+    "barcode": "8901000000291",
+    "price": 62,
+    "category": "Dairy",
+    "stock": 72
+  },
+  {
+    "id": 292,
+    "name": "Lays Classic Salted 52g (2)",
+    "barcode": "8901000000292",
+    "price": 146,
+    "category": "Snacks",
+    "stock": 56
+  },
+  {
+    "id": 293,
+    "name": "Fortune Maida 1kg (2)",
+    "barcode": "8901000000293",
+    "price": 209,
+    "category": "Staples",
+    "stock": 90
+  },
+  {
+    "id": 294,
+    "name": "Maaza Mango Drink 600ml (2)",
+    "barcode": "8901000000294",
+    "price": 32,
+    "category": "Beverages",
+    "stock": 66
+  },
+  {
+    "id": 295,
+    "name": "English Oven Garlic Bread 200g (2)",
+    "barcode": "8901000000295",
+    "price": 742,
+    "category": "Bakery",
+    "stock": 68
+  },
+  {
+    "id": 296,
+    "name": "Colgate Strong Teeth 200g (9)",
+    "barcode": "8901000000296",
+    "price": 872,
+    "category": "Personal Care",
+    "stock": 18
+  },
+  {
+    "id": 297,
+    "name": "Lizol Citrus 975ml (4)",
+    "barcode": "8901000000297",
+    "price": 219,
+    "category": "Cleaning",
+    "stock": 27
+  },
+  {
+    "id": 298,
+    "name": "Fresho Frozen Mixed Veg 500g (3)",
+    "barcode": "8901000000298",
+    "price": 396,
+    "category": "Frozen",
+    "stock": 16
+  },
+  {
+    "id": 299,
+    "name": "Spinach Bunch 250g (9)",
+    "barcode": "8901000000299",
+    "price": 308,
+    "category": "Produce",
+    "stock": 49
+  },
+  {
+    "id": 300,
+    "name": "MDH Chana Masala 100g (9)",
+    "barcode": "8901000000300",
+    "price": 85,
+    "category": "Spices",
+    "stock": 82
+  },
+  {
+    "id": 301,
+    "name": "Milky Mist Curd 500g (1)",
+    "barcode": "8901000000301",
+    "price": 286,
+    "category": "Dairy",
+    "stock": 46
+  },
+  {
+    "id": 302,
+    "name": "Maggi 2-Minute Noodles 70g (2)",
+    "barcode": "8901000000302",
+    "price": 594,
+    "category": "Snacks",
+    "stock": 11
+  },
+  {
+    "id": 303,
+    "name": "Dhampure Sulphurless Sugar 1kg (2)",
+    "barcode": "8901000000303",
+    "price": 485,
+    "category": "Staples",
+    "stock": 31
+  },
+  {
+    "id": 304,
+    "name": "Monster Energy 350ml (2)",
+    "barcode": "8901000000304",
+    "price": 722,
+    "category": "Beverages",
+    "stock": 46
+  },
+  {
+    "id": 305,
+    "name": "Sunfeast Mom's Magic 200g (2)",
+    "barcode": "8901000000305",
+    "price": 115,
+    "category": "Bakery",
+    "stock": 38
+  },
+  {
+    "id": 306,
+    "name": "Sensodyne Repair 70g (10)",
+    "barcode": "8901000000306",
+    "price": 515,
+    "category": "Personal Care",
+    "stock": 82
+  },
+  {
+    "id": 307,
+    "name": "Dettol Antiseptic 500ml (5)",
+    "barcode": "8901000000307",
+    "price": 377,
+    "category": "Cleaning",
+    "stock": 42
+  },
+  {
+    "id": 308,
+    "name": "McCain Smiles 415g (3)",
+    "barcode": "8901000000308",
+    "price": 694,
+    "category": "Frozen",
+    "stock": 65
+  },
+  {
+    "id": 309,
+    "name": "Fresh Potatoes 1kg (10)",
+    "barcode": "8901000000309",
+    "price": 227,
+    "category": "Produce",
+    "stock": 88
+  },
+  {
+    "id": 310,
+    "name": "Everest Kitchen King 100g (10)",
+    "barcode": "8901000000310",
+    "price": 318,
+    "category": "Spices",
+    "stock": 81
+  },
+  {
+    "id": 311,
+    "name": "Amul Mithai Mate 400g (1)",
+    "barcode": "8901000000311",
+    "price": 311,
+    "category": "Dairy",
+    "stock": 97
+  },
+  {
+    "id": 312,
+    "name": "Haldiram Moong Dal 200g (2)",
+    "barcode": "8901000000312",
+    "price": 28,
+    "category": "Snacks",
+    "stock": 5
+  },
+  {
+    "id": 313,
+    "name": "Tata Sampann Unpolished Toor Dal 1kg (2)",
+    "barcode": "8901000000313",
+    "price": 280,
+    "category": "Staples",
+    "stock": 9
+  },
+  {
+    "id": 314,
+    "name": "Red Bull 250ml (2)",
+    "barcode": "8901000000314",
+    "price": 890,
+    "category": "Beverages",
+    "stock": 52
+  },
+  {
+    "id": 315,
+    "name": "Britannia Treat Croissant Chocolate 45g (2)",
+    "barcode": "8901000000315",
+    "price": 847,
+    "category": "Bakery",
+    "stock": 93
+  },
+  {
+    "id": 316,
+    "name": "Gillette Guard 3pc (10)",
+    "barcode": "8901000000316",
+    "price": 729,
+    "category": "Personal Care",
+    "stock": 14
+  },
+  {
+    "id": 317,
+    "name": "Surf Excel Matic Top Load 1kg (5)",
+    "barcode": "8901000000317",
+    "price": 500,
+    "category": "Cleaning",
+    "stock": 82
+  },
+  {
+    "id": 318,
+    "name": "Mother Dairy Kulfi 6pc (3)",
+    "barcode": "8901000000318",
+    "price": 404,
+    "category": "Frozen",
+    "stock": 26
+  },
+  {
+    "id": 319,
+    "name": "Shimla Apples 500g (10)",
+    "barcode": "8901000000319",
+    "price": 486,
+    "category": "Produce",
+    "stock": 60
+  },
+  {
+    "id": 320,
+    "name": "Everest Meat Masala 100g (10)",
+    "barcode": "8901000000320",
+    "price": 870,
+    "category": "Spices",
+    "stock": 44
+  },
+  {
+    "id": 321,
+    "name": "Amul Lassi Mango 200ml (1)",
+    "barcode": "8901000000321",
+    "price": 518,
+    "category": "Dairy",
+    "stock": 25
+  },
+  {
+    "id": 322,
+    "name": "Kurkure Masala Munch 90g (2)",
+    "barcode": "8901000000322",
+    "price": 90,
+    "category": "Snacks",
+    "stock": 65
+  },
+  {
+    "id": 323,
+    "name": "Mother Dairy Cow Ghee 200ml (2)",
+    "barcode": "8901000000323",
+    "price": 159,
+    "category": "Staples",
+    "stock": 32
+  },
+  {
+    "id": 324,
+    "name": "Nescafé Classic Coffee 50g (2)",
+    "barcode": "8901000000324",
+    "price": 749,
+    "category": "Beverages",
+    "stock": 27
+  },
+  {
+    "id": 325,
+    "name": "Britannia Brown Bread 400g (2)",
+    "barcode": "8901000000325",
+    "price": 669,
+    "category": "Bakery",
+    "stock": 40
+  },
+  {
+    "id": 326,
+    "name": "Colgate Strong Teeth 200g (10)",
+    "barcode": "8901000000326",
+    "price": 64,
+    "category": "Personal Care",
+    "stock": 46
+  },
+  {
+    "id": 327,
+    "name": "Rin Bar 250g (5)",
+    "barcode": "8901000000327",
+    "price": 503,
+    "category": "Cleaning",
+    "stock": 99
+  },
+  {
+    "id": 328,
+    "name": "Kwality Walls Magnum Classic 80ml (3)",
+    "barcode": "8901000000328",
+    "price": 885,
+    "category": "Frozen",
+    "stock": 58
+  },
+  {
+    "id": 329,
+    "name": "Spinach Bunch 250g (10)",
+    "barcode": "8901000000329",
+    "price": 821,
+    "category": "Produce",
+    "stock": 35
+  },
+  {
+    "id": 330,
+    "name": "MDH Chana Masala 100g (10)",
+    "barcode": "8901000000330",
+    "price": 271,
+    "category": "Spices",
+    "stock": 100
+  },
+  {
+    "id": 331,
+    "name": "Amul Masti Dahi 400g (1)",
+    "barcode": "8901000000331",
+    "price": 183,
+    "category": "Dairy",
+    "stock": 96
+  },
+  {
+    "id": 332,
+    "name": "Haldiram Aloo Bhujia 200g (2)",
+    "barcode": "8901000000332",
+    "price": 731,
+    "category": "Snacks",
+    "stock": 65
+  },
+  {
+    "id": 333,
+    "name": "Aashirvaad Atta 10kg (2)",
+    "barcode": "8901000000333",
+    "price": 513,
+    "category": "Staples",
+    "stock": 47
+  },
+  {
+    "id": 334,
+    "name": "Bisleri Water 1L (3)",
+    "barcode": "8901000000334",
+    "price": 832,
+    "category": "Beverages",
+    "stock": 68
+  },
+  {
+    "id": 335,
+    "name": "Modern Sandwich Bread 400g (3)",
+    "barcode": "8901000000335",
+    "price": 673,
+    "category": "Bakery",
+    "stock": 6
+  },
+  {
+    "id": 336,
+    "name": "Sensodyne Repair 70g (11)",
+    "barcode": "8901000000336",
+    "price": 198,
+    "category": "Personal Care",
+    "stock": 76
+  },
+  {
+    "id": 337,
+    "name": "Exo Dishwash Bar 700g (5)",
+    "barcode": "8901000000337",
+    "price": 140,
+    "category": "Cleaning",
+    "stock": 50
+  },
+  {
+    "id": 338,
+    "name": "McCain French Fries 400g (3)",
+    "barcode": "8901000000338",
+    "price": 574,
+    "category": "Frozen",
+    "stock": 41
+  },
+  {
+    "id": 339,
+    "name": "Fresh Potatoes 1kg (11)",
+    "barcode": "8901000000339",
+    "price": 711,
+    "category": "Produce",
+    "stock": 35
+  },
+  {
+    "id": 340,
+    "name": "Everest Kitchen King 100g (11)",
+    "barcode": "8901000000340",
+    "price": 343,
+    "category": "Spices",
+    "stock": 21
+  },
+  {
+    "id": 341,
+    "name": "Britannia Cheese Spread 180g (1)",
+    "barcode": "8901000000341",
+    "price": 166,
+    "category": "Dairy",
+    "stock": 29
+  },
+  {
+    "id": 342,
+    "name": "Cadbury Bournville 80g (2)",
+    "barcode": "8901000000342",
+    "price": 283,
+    "category": "Snacks",
+    "stock": 81
+  },
+  {
+    "id": 343,
+    "name": "Fortune Chakki Fresh Atta 5kg (2)",
+    "barcode": "8901000000343",
+    "price": 725,
+    "category": "Staples",
+    "stock": 60
+  },
+  {
+    "id": 344,
+    "name": "Tata Tea Gold 250g (3)",
+    "barcode": "8901000000344",
+    "price": 220,
+    "category": "Beverages",
+    "stock": 72
+  },
+  {
+    "id": 345,
+    "name": "Britannia Rusk 200g (3)",
+    "barcode": "8901000000345",
+    "price": 31,
+    "category": "Bakery",
+    "stock": 48
+  },
+  {
+    "id": 346,
+    "name": "Gillette Guard 3pc (11)",
+    "barcode": "8901000000346",
+    "price": 829,
+    "category": "Personal Care",
+    "stock": 26
+  },
+  {
+    "id": 347,
+    "name": "Harpic Power Plus 500ml (5)",
+    "barcode": "8901000000347",
+    "price": 259,
+    "category": "Cleaning",
+    "stock": 14
+  },
+  {
+    "id": 348,
+    "name": "Amul Ice Cream Vanilla 1L (3)",
+    "barcode": "8901000000348",
+    "price": 627,
+    "category": "Frozen",
+    "stock": 45
+  },
+  {
+    "id": 349,
+    "name": "Shimla Apples 500g (11)",
+    "barcode": "8901000000349",
+    "price": 109,
+    "category": "Produce",
+    "stock": 24
+  },
+  {
+    "id": 350,
+    "name": "Everest Meat Masala 100g (11)",
+    "barcode": "8901000000350",
+    "price": 445,
+    "category": "Spices",
+    "stock": 91
+  },
+  {
+    "id": 351,
+    "name": "Nestlé Everyday Dairy Whitener 400g (1)",
+    "barcode": "8901000000351",
+    "price": 473,
+    "category": "Dairy",
+    "stock": 32
+  },
+  {
+    "id": 352,
+    "name": "Uncle Chips Spicy Treat 55g (2)",
+    "barcode": "8901000000352",
+    "price": 365,
+    "category": "Snacks",
+    "stock": 16
+  },
+  {
+    "id": 353,
+    "name": "Fortune Mustard Oil 1L (2)",
+    "barcode": "8901000000353",
+    "price": 185,
+    "category": "Staples",
+    "stock": 53
+  },
+  {
+    "id": 354,
+    "name": "Bru Instant Coffee 100g (3)",
+    "barcode": "8901000000354",
+    "price": 371,
+    "category": "Beverages",
+    "stock": 74
+  },
+  {
+    "id": 355,
+    "name": "Britannia Whole Wheat Bread 450g (3)",
+    "barcode": "8901000000355",
+    "price": 292,
+    "category": "Bakery",
+    "stock": 14
+  },
+  {
+    "id": 356,
+    "name": "Colgate Strong Teeth 200g (11)",
+    "barcode": "8901000000356",
+    "price": 767,
+    "category": "Personal Care",
+    "stock": 95
+  },
+  {
+    "id": 357,
+    "name": "Lizol Citrus 975ml (5)",
+    "barcode": "8901000000357",
+    "price": 717,
+    "category": "Cleaning",
+    "stock": 65
+  },
+  {
+    "id": 358,
+    "name": "ITC Master Chef Frozen Paratha 6pc (3)",
+    "barcode": "8901000000358",
+    "price": 696,
+    "category": "Frozen",
+    "stock": 77
+  },
+  {
+    "id": 359,
+    "name": "Spinach Bunch 250g (11)",
+    "barcode": "8901000000359",
+    "price": 854,
+    "category": "Produce",
+    "stock": 20
+  },
+  {
+    "id": 360,
+    "name": "MDH Chana Masala 100g (11)",
+    "barcode": "8901000000360",
+    "price": 376,
+    "category": "Spices",
+    "stock": 88
+  },
+  {
+    "id": 361,
+    "name": "Amul Gold Milk 1L (1)",
+    "barcode": "8901000000361",
+    "price": 189,
+    "category": "Dairy",
+    "stock": 43
+  },
+  {
+    "id": 362,
+    "name": "Nutraj California Almonds 200g (3)",
+    "barcode": "8901000000362",
+    "price": 700,
+    "category": "Snacks",
+    "stock": 64
+  },
+  {
+    "id": 363,
+    "name": "Rajdhani Chana Dal 500g (3)",
+    "barcode": "8901000000363",
+    "price": 690,
+    "category": "Staples",
+    "stock": 47
+  },
+  {
+    "id": 364,
+    "name": "Red Label Tea 250g (3)",
+    "barcode": "8901000000364",
+    "price": 801,
+    "category": "Beverages",
+    "stock": 19
+  },
+  {
+    "id": 365,
+    "name": "Parle Hide & Seek 120g (3)",
+    "barcode": "8901000000365",
+    "price": 768,
+    "category": "Bakery",
+    "stock": 47
+  },
+  {
+    "id": 366,
+    "name": "Sensodyne Repair 70g (12)",
+    "barcode": "8901000000366",
+    "price": 523,
+    "category": "Personal Care",
+    "stock": 68
+  },
+  {
+    "id": 367,
+    "name": "Dettol Antiseptic 500ml (6)",
+    "barcode": "8901000000367",
+    "price": 12,
+    "category": "Cleaning",
+    "stock": 35
+  },
+  {
+    "id": 368,
+    "name": "Yummiez Chicken Nuggets 250g (4)",
+    "barcode": "8901000000368",
+    "price": 526,
+    "category": "Frozen",
+    "stock": 60
+  },
+  {
+    "id": 369,
+    "name": "Fresh Potatoes 1kg (12)",
+    "barcode": "8901000000369",
+    "price": 711,
+    "category": "Produce",
+    "stock": 16
+  },
+  {
+    "id": 370,
+    "name": "Everest Kitchen King 100g (12)",
+    "barcode": "8901000000370",
+    "price": 768,
+    "category": "Spices",
+    "stock": 87
+  },
+  {
+    "id": 371,
+    "name": "Amul Ghee 500ml (1)",
+    "barcode": "8901000000371",
+    "price": 719,
+    "category": "Dairy",
+    "stock": 50
+  },
+  {
+    "id": 372,
+    "name": "Britannia Good Day 200g (3)",
+    "barcode": "8901000000372",
+    "price": 155,
+    "category": "Snacks",
+    "stock": 42
+  },
+  {
+    "id": 373,
+    "name": "Daawat Basmati Rice 1kg (3)",
+    "barcode": "8901000000373",
+    "price": 256,
+    "category": "Staples",
+    "stock": 65
+  },
+  {
+    "id": 374,
+    "name": "Slice Mango 600ml (3)",
+    "barcode": "8901000000374",
+    "price": 420,
+    "category": "Beverages",
+    "stock": 21
+  },
+  {
+    "id": 375,
+    "name": "Britannia Nice Time 150g (3)",
+    "barcode": "8901000000375",
+    "price": 860,
+    "category": "Bakery",
+    "stock": 1
+  },
+  {
+    "id": 376,
+    "name": "Gillette Guard 3pc (12)",
+    "barcode": "8901000000376",
+    "price": 548,
+    "category": "Personal Care",
+    "stock": 17
+  },
+  {
+    "id": 377,
+    "name": "Surf Excel Matic Top Load 1kg (6)",
+    "barcode": "8901000000377",
+    "price": 532,
+    "category": "Cleaning",
+    "stock": 41
+  },
+  {
+    "id": 378,
+    "name": "Safal Frozen Green Peas 500g (4)",
+    "barcode": "8901000000378",
+    "price": 883,
+    "category": "Frozen",
+    "stock": 56
+  },
+  {
+    "id": 379,
+    "name": "Shimla Apples 500g (12)",
+    "barcode": "8901000000379",
+    "price": 257,
+    "category": "Produce",
+    "stock": 33
+  },
+  {
+    "id": 380,
+    "name": "Everest Meat Masala 100g (12)",
+    "barcode": "8901000000380",
+    "price": 733,
+    "category": "Spices",
+    "stock": 28
+  },
+  {
+    "id": 381,
+    "name": "Britannia Cubes Cheese 200g (1)",
+    "barcode": "8901000000381",
+    "price": 222,
+    "category": "Dairy",
+    "stock": 56
+  },
+  {
+    "id": 382,
+    "name": "Yippee Noodles 60g (3)",
+    "barcode": "8901000000382",
+    "price": 192,
+    "category": "Snacks",
+    "stock": 26
+  },
+  {
+    "id": 383,
+    "name": "India Gate Basmati Rice 5kg (3)",
+    "barcode": "8901000000383",
+    "price": 583,
+    "category": "Staples",
+    "stock": 83
+  },
+  {
+    "id": 384,
+    "name": "Nescafé Sunrise 200g (3)",
+    "barcode": "8901000000384",
+    "price": 273,
+    "category": "Beverages",
+    "stock": 60
+  },
+  {
+    "id": 385,
+    "name": "Britannia Fruit Cake 150g (3)",
+    "barcode": "8901000000385",
+    "price": 122,
+    "category": "Bakery",
+    "stock": 88
+  },
+  {
+    "id": 386,
+    "name": "Colgate Strong Teeth 200g (12)",
+    "barcode": "8901000000386",
+    "price": 801,
+    "category": "Personal Care",
+    "stock": 13
+  },
+  {
+    "id": 387,
+    "name": "Rin Bar 250g (6)",
+    "barcode": "8901000000387",
+    "price": 800,
+    "category": "Cleaning",
+    "stock": 14
+  },
+  {
+    "id": 388,
+    "name": "Fresho Frozen Mixed Veg 500g (4)",
+    "barcode": "8901000000388",
+    "price": 803,
+    "category": "Frozen",
+    "stock": 18
+  },
+  {
+    "id": 389,
+    "name": "Spinach Bunch 250g (12)",
+    "barcode": "8901000000389",
+    "price": 810,
+    "category": "Produce",
+    "stock": 15
+  },
+  {
+    "id": 390,
+    "name": "MDH Chana Masala 100g (12)",
+    "barcode": "8901000000390",
+    "price": 633,
+    "category": "Spices",
+    "stock": 82
+  },
+  {
+    "id": 391,
+    "name": "Amul Paneer 200g (1)",
+    "barcode": "8901000000391",
+    "price": 317,
+    "category": "Dairy",
+    "stock": 30
+  },
+  {
+    "id": 392,
+    "name": "Sunfeast Dark Fantasy Choco 150g (3)",
+    "barcode": "8901000000392",
+    "price": 708,
+    "category": "Snacks",
+    "stock": 99
+  },
+  {
+    "id": 393,
+    "name": "Aashirvaad Superior Atta 5kg (3)",
+    "barcode": "8901000000393",
+    "price": 517,
+    "category": "Staples",
+    "stock": 13
+  },
+  {
+    "id": 394,
+    "name": "Coca-Cola 750ml (3)",
+    "barcode": "8901000000394",
+    "price": 646,
+    "category": "Beverages",
+    "stock": 75
+  },
+  {
+    "id": 395,
+    "name": "Britannia Marie Gold 250g (3)",
+    "barcode": "8901000000395",
+    "price": 292,
+    "category": "Bakery",
+    "stock": 21
+  },
+  {
+    "id": 396,
+    "name": "Sensodyne Repair 70g (13)",
+    "barcode": "8901000000396",
+    "price": 485,
+    "category": "Personal Care",
+    "stock": 18
+  },
+  {
+    "id": 397,
+    "name": "Exo Dishwash Bar 700g (6)",
+    "barcode": "8901000000397",
+    "price": 670,
+    "category": "Cleaning",
+    "stock": 64
+  },
+  {
+    "id": 398,
+    "name": "McCain Smiles 415g (4)",
+    "barcode": "8901000000398",
+    "price": 11,
+    "category": "Frozen",
+    "stock": 0
+  },
+  {
+    "id": 399,
+    "name": "Fresh Potatoes 1kg (13)",
+    "barcode": "8901000000399",
+    "price": 48,
+    "category": "Produce",
+    "stock": 0
+  },
+  {
+    "id": 400,
+    "name": "Everest Kitchen King 100g (13)",
+    "barcode": "8901000000400",
+    "price": 824,
+    "category": "Spices",
+    "stock": 34
+  },
+  {
+    "id": 401,
+    "name": "Mother Dairy Dahi 400g (1)",
+    "barcode": "8901000000401",
+    "price": 337,
+    "category": "Dairy",
+    "stock": 3
+  },
+  {
+    "id": 402,
+    "name": "Lay's Magic Masala 52g (3)",
+    "barcode": "8901000000402",
+    "price": 586,
+    "category": "Snacks",
+    "stock": 84
+  },
+  {
+    "id": 403,
+    "name": "Fortune Besan 500g (3)",
+    "barcode": "8901000000403",
+    "price": 465,
+    "category": "Staples",
+    "stock": 41
+  },
+  {
+    "id": 404,
+    "name": "Maaza Mango Drink 600ml (3)",
+    "barcode": "8901000000404",
+    "price": 132,
+    "category": "Beverages",
+    "stock": 57
+  },
+  {
+    "id": 405,
+    "name": "English Oven Garlic Bread 200g (3)",
+    "barcode": "8901000000405",
+    "price": 583,
+    "category": "Bakery",
+    "stock": 30
+  },
+  {
+    "id": 406,
+    "name": "Gillette Guard 3pc (13)",
+    "barcode": "8901000000406",
+    "price": 287,
+    "category": "Personal Care",
+    "stock": 90
+  },
+  {
+    "id": 407,
+    "name": "Harpic Power Plus 500ml (6)",
+    "barcode": "8901000000407",
+    "price": 377,
+    "category": "Cleaning",
+    "stock": 51
+  },
+  {
+    "id": 408,
+    "name": "Mother Dairy Kulfi 6pc (4)",
+    "barcode": "8901000000408",
+    "price": 288,
+    "category": "Frozen",
+    "stock": 87
+  },
+  {
+    "id": 409,
+    "name": "Shimla Apples 500g (13)",
+    "barcode": "8901000000409",
+    "price": 840,
+    "category": "Produce",
+    "stock": 30
+  },
+  {
+    "id": 410,
+    "name": "Everest Meat Masala 100g (13)",
+    "barcode": "8901000000410",
+    "price": 853,
+    "category": "Spices",
+    "stock": 37
+  },
+  {
+    "id": 411,
+    "name": "Mother Dairy Buttermilk 200ml (1)",
+    "barcode": "8901000000411",
+    "price": 540,
+    "category": "Dairy",
+    "stock": 8
+  },
+  {
+    "id": 412,
+    "name": "Lays Classic Salted 52g (3)",
+    "barcode": "8901000000412",
+    "price": 382,
+    "category": "Snacks",
+    "stock": 36
+  },
+  {
+    "id": 413,
+    "name": "Fortune Maida 1kg (3)",
+    "barcode": "8901000000413",
+    "price": 698,
+    "category": "Staples",
+    "stock": 15
+  },
+  {
+    "id": 414,
+    "name": "Monster Energy 350ml (3)",
+    "barcode": "8901000000414",
+    "price": 145,
+    "category": "Beverages",
+    "stock": 87
+  },
+  {
+    "id": 415,
+    "name": "Sunfeast Mom's Magic 200g (3)",
+    "barcode": "8901000000415",
+    "price": 214,
+    "category": "Bakery",
+    "stock": 100
+  },
+  {
+    "id": 416,
+    "name": "Colgate Strong Teeth 200g (13)",
+    "barcode": "8901000000416",
+    "price": 168,
+    "category": "Personal Care",
+    "stock": 21
+  },
+  {
+    "id": 417,
+    "name": "Lizol Citrus 975ml (6)",
+    "barcode": "8901000000417",
+    "price": 720,
+    "category": "Cleaning",
+    "stock": 48
+  },
+  {
+    "id": 418,
+    "name": "Kwality Walls Magnum Classic 80ml (4)",
+    "barcode": "8901000000418",
+    "price": 412,
+    "category": "Frozen",
+    "stock": 89
+  },
+  {
+    "id": 419,
+    "name": "Spinach Bunch 250g (13)",
+    "barcode": "8901000000419",
+    "price": 766,
+    "category": "Produce",
+    "stock": 43
+  },
+  {
+    "id": 420,
+    "name": "MDH Chana Masala 100g (13)",
+    "barcode": "8901000000420",
+    "price": 338,
+    "category": "Spices",
+    "stock": 90
+  },
+  {
+    "id": 421,
+    "name": "Epigamia Greek Yogurt 90g (2)",
+    "barcode": "8901000000421",
+    "price": 208,
+    "category": "Dairy",
+    "stock": 25
+  },
+  {
+    "id": 422,
+    "name": "Maggi 2-Minute Noodles 70g (3)",
+    "barcode": "8901000000422",
+    "price": 715,
+    "category": "Snacks",
+    "stock": 51
+  },
+  {
+    "id": 423,
+    "name": "Dhampure Sulphurless Sugar 1kg (3)",
+    "barcode": "8901000000423",
+    "price": 111,
+    "category": "Staples",
+    "stock": 39
+  },
+  {
+    "id": 424,
+    "name": "Red Bull 250ml (3)",
+    "barcode": "8901000000424",
+    "price": 802,
+    "category": "Beverages",
+    "stock": 60
+  },
+  {
+    "id": 425,
+    "name": "Britannia Treat Croissant Chocolate 45g (3)",
+    "barcode": "8901000000425",
+    "price": 75,
+    "category": "Bakery",
+    "stock": 45
+  },
+  {
+    "id": 426,
+    "name": "Sensodyne Repair 70g (14)",
+    "barcode": "8901000000426",
+    "price": 729,
+    "category": "Personal Care",
+    "stock": 56
+  },
+  {
+    "id": 427,
+    "name": "Dettol Antiseptic 500ml (7)",
+    "barcode": "8901000000427",
+    "price": 67,
+    "category": "Cleaning",
+    "stock": 45
+  },
+  {
+    "id": 428,
+    "name": "McCain French Fries 400g (4)",
+    "barcode": "8901000000428",
+    "price": 34,
+    "category": "Frozen",
+    "stock": 10
+  },
+  {
+    "id": 429,
+    "name": "Fresh Potatoes 1kg (14)",
+    "barcode": "8901000000429",
+    "price": 797,
+    "category": "Produce",
+    "stock": 32
+  },
+  {
+    "id": 430,
+    "name": "Everest Kitchen King 100g (14)",
+    "barcode": "8901000000430",
+    "price": 174,
+    "category": "Spices",
+    "stock": 78
+  },
+  {
+    "id": 431,
+    "name": "Amul Butter 100g (2)",
+    "barcode": "8901000000431",
+    "price": 547,
+    "category": "Dairy",
+    "stock": 38
+  },
+  {
+    "id": 432,
+    "name": "Haldiram Moong Dal 200g (3)",
+    "barcode": "8901000000432",
+    "price": 563,
+    "category": "Snacks",
+    "stock": 30
+  },
+  {
+    "id": 433,
+    "name": "Tata Sampann Unpolished Toor Dal 1kg (3)",
+    "barcode": "8901000000433",
+    "price": 895,
+    "category": "Staples",
+    "stock": 9
+  },
+  {
+    "id": 434,
+    "name": "Nescafé Classic Coffee 50g (3)",
+    "barcode": "8901000000434",
+    "price": 279,
+    "category": "Beverages",
+    "stock": 29
+  },
+  {
+    "id": 435,
+    "name": "Britannia Brown Bread 400g (3)",
+    "barcode": "8901000000435",
+    "price": 476,
+    "category": "Bakery",
+    "stock": 78
+  },
+  {
+    "id": 436,
+    "name": "Gillette Guard 3pc (14)",
+    "barcode": "8901000000436",
+    "price": 424,
+    "category": "Personal Care",
+    "stock": 56
+  },
+  {
+    "id": 437,
+    "name": "Surf Excel Matic Top Load 1kg (7)",
+    "barcode": "8901000000437",
+    "price": 512,
+    "category": "Cleaning",
+    "stock": 3
+  },
+  {
+    "id": 438,
+    "name": "Amul Ice Cream Vanilla 1L (4)",
+    "barcode": "8901000000438",
+    "price": 799,
+    "category": "Frozen",
+    "stock": 98
+  },
+  {
+    "id": 439,
+    "name": "Shimla Apples 500g (14)",
+    "barcode": "8901000000439",
+    "price": 271,
+    "category": "Produce",
+    "stock": 88
+  },
+  {
+    "id": 440,
+    "name": "Everest Meat Masala 100g (14)",
+    "barcode": "8901000000440",
+    "price": 534,
+    "category": "Spices",
+    "stock": 52
+  },
+  {
+    "id": 441,
+    "name": "Nestlé Milkmaid 400g (2)",
+    "barcode": "8901000000441",
+    "price": 757,
+    "category": "Dairy",
+    "stock": 63
+  },
+  {
+    "id": 442,
+    "name": "Kurkure Masala Munch 90g (3)",
+    "barcode": "8901000000442",
+    "price": 682,
+    "category": "Snacks",
+    "stock": 66
+  },
+  {
+    "id": 443,
+    "name": "Mother Dairy Cow Ghee 200ml (3)",
+    "barcode": "8901000000443",
+    "price": 155,
+    "category": "Staples",
+    "stock": 3
+  },
+  {
+    "id": 444,
+    "name": "Bisleri Water 1L (4)",
+    "barcode": "8901000000444",
+    "price": 798,
+    "category": "Beverages",
+    "stock": 74
+  },
+  {
+    "id": 445,
+    "name": "Modern Sandwich Bread 400g (4)",
+    "barcode": "8901000000445",
+    "price": 413,
+    "category": "Bakery",
+    "stock": 9
+  },
+  {
+    "id": 446,
+    "name": "Colgate Strong Teeth 200g (14)",
+    "barcode": "8901000000446",
+    "price": 471,
+    "category": "Personal Care",
+    "stock": 93
+  },
+  {
+    "id": 447,
+    "name": "Rin Bar 250g (7)",
+    "barcode": "8901000000447",
+    "price": 868,
+    "category": "Cleaning",
+    "stock": 13
+  },
+  {
+    "id": 448,
+    "name": "ITC Master Chef Frozen Paratha 6pc (4)",
+    "barcode": "8901000000448",
+    "price": 798,
+    "category": "Frozen",
+    "stock": 43
+  },
+  {
+    "id": 449,
+    "name": "Spinach Bunch 250g (14)",
+    "barcode": "8901000000449",
+    "price": 79,
+    "category": "Produce",
+    "stock": 67
+  },
+  {
+    "id": 450,
+    "name": "MDH Chana Masala 100g (14)",
+    "barcode": "8901000000450",
+    "price": 340,
+    "category": "Spices",
+    "stock": 97
+  },
+  {
+    "id": 451,
+    "name": "Nandini Ghee 500ml (2)",
+    "barcode": "8901000000451",
+    "price": 611,
+    "category": "Dairy",
+    "stock": 6
+  },
+  {
+    "id": 452,
+    "name": "Haldiram Aloo Bhujia 200g (3)",
+    "barcode": "8901000000452",
+    "price": 211,
+    "category": "Snacks",
+    "stock": 72
+  },
+  {
+    "id": 453,
+    "name": "Aashirvaad Atta 10kg (3)",
+    "barcode": "8901000000453",
+    "price": 427,
+    "category": "Staples",
+    "stock": 4
+  },
+  {
+    "id": 454,
+    "name": "Tata Tea Gold 250g (4)",
+    "barcode": "8901000000454",
+    "price": 577,
+    "category": "Beverages",
+    "stock": 40
+  },
+  {
+    "id": 455,
+    "name": "Britannia Rusk 200g (4)",
+    "barcode": "8901000000455",
+    "price": 61,
+    "category": "Bakery",
+    "stock": 83
+  },
+  {
+    "id": 456,
+    "name": "Sensodyne Repair 70g (15)",
+    "barcode": "8901000000456",
+    "price": 123,
+    "category": "Personal Care",
+    "stock": 88
+  },
+  {
+    "id": 457,
+    "name": "Exo Dishwash Bar 700g (7)",
+    "barcode": "8901000000457",
+    "price": 877,
+    "category": "Cleaning",
+    "stock": 74
+  },
+  {
+    "id": 458,
+    "name": "Yummiez Chicken Nuggets 250g (5)",
+    "barcode": "8901000000458",
+    "price": 652,
+    "category": "Frozen",
+    "stock": 52
+  },
+  {
+    "id": 459,
+    "name": "Fresh Potatoes 1kg (15)",
+    "barcode": "8901000000459",
+    "price": 305,
+    "category": "Produce",
+    "stock": 72
+  },
+  {
+    "id": 460,
+    "name": "Everest Kitchen King 100g (15)",
+    "barcode": "8901000000460",
+    "price": 596,
+    "category": "Spices",
+    "stock": 91
+  },
+  {
+    "id": 461,
+    "name": "Britannia Cheese Slices 200g (2)",
+    "barcode": "8901000000461",
+    "price": 593,
+    "category": "Dairy",
+    "stock": 46
+  },
+  {
+    "id": 462,
+    "name": "Cadbury Bournville 80g (3)",
+    "barcode": "8901000000462",
+    "price": 475,
+    "category": "Snacks",
+    "stock": 57
+  },
+  {
+    "id": 463,
+    "name": "Fortune Chakki Fresh Atta 5kg (3)",
+    "barcode": "8901000000463",
+    "price": 336,
+    "category": "Staples",
+    "stock": 71
+  },
+  {
+    "id": 464,
+    "name": "Bru Instant Coffee 100g (4)",
+    "barcode": "8901000000464",
+    "price": 206,
+    "category": "Beverages",
+    "stock": 3
+  },
+  {
+    "id": 465,
+    "name": "Britannia Whole Wheat Bread 450g (4)",
+    "barcode": "8901000000465",
+    "price": 88,
+    "category": "Bakery",
+    "stock": 23
+  },
+  {
+    "id": 466,
+    "name": "Gillette Guard 3pc (15)",
+    "barcode": "8901000000466",
+    "price": 376,
+    "category": "Personal Care",
+    "stock": 42
+  },
+  {
+    "id": 467,
+    "name": "Harpic Power Plus 500ml (7)",
+    "barcode": "8901000000467",
+    "price": 211,
+    "category": "Cleaning",
+    "stock": 17
+  },
+  {
+    "id": 468,
+    "name": "Safal Frozen Green Peas 500g (5)",
+    "barcode": "8901000000468",
+    "price": 72,
+    "category": "Frozen",
+    "stock": 15
+  },
+  {
+    "id": 469,
+    "name": "Shimla Apples 500g (15)",
+    "barcode": "8901000000469",
+    "price": 723,
+    "category": "Produce",
+    "stock": 95
+  },
+  {
+    "id": 470,
+    "name": "Everest Meat Masala 100g (15)",
+    "barcode": "8901000000470",
+    "price": 757,
+    "category": "Spices",
+    "stock": 96
+  },
+  {
+    "id": 471,
+    "name": "Amul Fresh Cream 250ml (2)",
+    "barcode": "8901000000471",
+    "price": 363,
+    "category": "Dairy",
+    "stock": 34
+  },
+  {
+    "id": 472,
+    "name": "Uncle Chips Spicy Treat 55g (3)",
+    "barcode": "8901000000472",
+    "price": 373,
+    "category": "Snacks",
+    "stock": 42
+  },
+  {
+    "id": 473,
+    "name": "Fortune Mustard Oil 1L (3)",
+    "barcode": "8901000000473",
+    "price": 639,
+    "category": "Staples",
+    "stock": 60
+  },
+  {
+    "id": 474,
+    "name": "Red Label Tea 250g (4)",
+    "barcode": "8901000000474",
+    "price": 875,
+    "category": "Beverages",
+    "stock": 78
+  },
+  {
+    "id": 475,
+    "name": "Parle Hide & Seek 120g (4)",
+    "barcode": "8901000000475",
+    "price": 603,
+    "category": "Bakery",
+    "stock": 57
+  },
+  {
+    "id": 476,
+    "name": "Colgate Strong Teeth 200g (15)",
+    "barcode": "8901000000476",
+    "price": 534,
+    "category": "Personal Care",
+    "stock": 38
+  },
+  {
+    "id": 477,
+    "name": "Lizol Citrus 975ml (7)",
+    "barcode": "8901000000477",
+    "price": 580,
+    "category": "Cleaning",
+    "stock": 1
+  },
+  {
+    "id": 478,
+    "name": "Fresho Frozen Mixed Veg 500g (5)",
+    "barcode": "8901000000478",
+    "price": 754,
+    "category": "Frozen",
+    "stock": 84
+  },
+  {
+    "id": 479,
+    "name": "Spinach Bunch 250g (15)",
+    "barcode": "8901000000479",
+    "price": 605,
+    "category": "Produce",
+    "stock": 31
+  },
+  {
+    "id": 480,
+    "name": "MDH Chana Masala 100g (15)",
+    "barcode": "8901000000480",
+    "price": 540,
+    "category": "Spices",
+    "stock": 18
+  },
+  {
+    "id": 481,
+    "name": "Mother Dairy Full Cream 1L (2)",
+    "barcode": "8901000000481",
+    "price": 594,
+    "category": "Dairy",
+    "stock": 100
+  },
+  {
+    "id": 482,
+    "name": "Nutraj California Almonds 200g (4)",
+    "barcode": "8901000000482",
+    "price": 672,
+    "category": "Snacks",
+    "stock": 7
+  },
+  {
+    "id": 483,
+    "name": "Rajdhani Chana Dal 500g (4)",
+    "barcode": "8901000000483",
+    "price": 418,
+    "category": "Staples",
+    "stock": 46
+  },
+  {
+    "id": 484,
+    "name": "Slice Mango 600ml (4)",
+    "barcode": "8901000000484",
+    "price": 547,
+    "category": "Beverages",
+    "stock": 99
+  },
+  {
+    "id": 485,
+    "name": "Britannia Nice Time 150g (4)",
+    "barcode": "8901000000485",
+    "price": 308,
+    "category": "Bakery",
+    "stock": 100
+  },
+  {
+    "id": 486,
+    "name": "Sensodyne Repair 70g (16)",
+    "barcode": "8901000000486",
+    "price": 703,
+    "category": "Personal Care",
+    "stock": 19
+  },
+  {
+    "id": 487,
+    "name": "Dettol Antiseptic 500ml (8)",
+    "barcode": "8901000000487",
+    "price": 818,
+    "category": "Cleaning",
+    "stock": 52
+  },
+  {
+    "id": 488,
+    "name": "McCain Smiles 415g (5)",
+    "barcode": "8901000000488",
+    "price": 462,
+    "category": "Frozen",
+    "stock": 76
+  },
+  {
+    "id": 489,
+    "name": "Fresh Potatoes 1kg (16)",
+    "barcode": "8901000000489",
+    "price": 641,
+    "category": "Produce",
+    "stock": 94
+  },
+  {
+    "id": 490,
+    "name": "Everest Kitchen King 100g (16)",
+    "barcode": "8901000000490",
+    "price": 314,
+    "category": "Spices",
+    "stock": 43
+  },
+  {
+    "id": 491,
+    "name": "Verka Lassi 200ml (2)",
+    "barcode": "8901000000491",
+    "price": 457,
+    "category": "Dairy",
+    "stock": 9
+  },
+  {
+    "id": 492,
+    "name": "Britannia Good Day 200g (4)",
+    "barcode": "8901000000492",
+    "price": 63,
+    "category": "Snacks",
+    "stock": 33
+  },
+  {
+    "id": 493,
+    "name": "Daawat Basmati Rice 1kg (4)",
+    "barcode": "8901000000493",
+    "price": 51,
+    "category": "Staples",
+    "stock": 88
+  },
+  {
+    "id": 494,
+    "name": "Nescafé Sunrise 200g (4)",
+    "barcode": "8901000000494",
+    "price": 695,
+    "category": "Beverages",
+    "stock": 8
+  },
+  {
+    "id": 495,
+    "name": "Britannia Fruit Cake 150g (4)",
+    "barcode": "8901000000495",
+    "price": 845,
+    "category": "Bakery",
+    "stock": 92
+  },
+  {
+    "id": 496,
+    "name": "Gillette Guard 3pc (16)",
+    "barcode": "8901000000496",
+    "price": 771,
+    "category": "Personal Care",
+    "stock": 80
+  },
+  {
+    "id": 497,
+    "name": "Surf Excel Matic Top Load 1kg (8)",
+    "barcode": "8901000000497",
+    "price": 208,
+    "category": "Cleaning",
+    "stock": 98
+  },
+  {
+    "id": 498,
+    "name": "Mother Dairy Kulfi 6pc (5)",
+    "barcode": "8901000000498",
+    "price": 396,
+    "category": "Frozen",
+    "stock": 85
+  },
+  {
+    "id": 499,
+    "name": "Shimla Apples 500g (16)",
+    "barcode": "8901000000499",
+    "price": 354,
+    "category": "Produce",
+    "stock": 50
+  },
+  {
+    "id": 500,
+    "name": "Everest Meat Masala 100g (16)",
+    "barcode": "8901000000500",
+    "price": 537,
+    "category": "Spices",
+    "stock": 15
+  }
+]
