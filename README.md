@@ -1,13 +1,15 @@
-# VeloCart — React Native (Expo) App
+# ZipTap — React Native / Expo Shopping Prototype
 
-Scan. Pay. Walk out. No queues.
+A scan-and-pay shopping prototype with cart management, checkout screens, order history, and a rewards wallet.
+
+The app currently uses **VeloCart** branding internally. This repository is named **ZipTap**. Authentication, social sign-in, and payment screens are prototype flows; see [Production Notes](#production-notes) before considering real-world use.
 
 ---
 
 ## Project Structure
 
 ```
-velocart/
+ziptap/
 ├── App.js                        ← Root entry point
 ├── app.json                      ← Expo config (name, icons, permissions)
 ├── babel.config.js
@@ -70,16 +72,7 @@ The app hot-reloads every time you save a file.
 
 ## Admin Login
 
-On the splash screen tap **"Login as Administrator"** and enter:
-
-```
-velocartadmin@2411
-```
-
-To change the code, open `src/context/AuthContext.js` and edit line 8:
-```js
-export const ADMIN_CODE = 'velocartadmin@2411';
-```
+Administrator access is a local prototype flow configured in `src/context/AuthContext.js`. Do not use a client-side code gate as production authentication. Replace it with backend authentication and authorization before deployment.
 
 ---
 
