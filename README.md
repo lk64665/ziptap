@@ -119,10 +119,10 @@ export const CONVENIENCE_FEE = 15;   // ₹ flat per order — change here
 export const GST_RATE        = 0.05; // 5% — change here
 ```
 
-V-Coin rate: `src/data/products.js` → `calcVCoins()`:
+Z-Coin rate: `src/data/products.js` → `calcZCoins()`:
 ```js
-// ₹100 spent → 10 V-Coins (1 coin per ₹10)
-return Math.floor(totalPaid / 100) * 10;
+// 10 Z-Coins per complete ₹100 spent; ₹199 earns 10, ₹200 earns 20.
+return Math.floor(total / 100) * 10;
 ```
 
 ---
