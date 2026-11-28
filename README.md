@@ -119,11 +119,7 @@ export const CONVENIENCE_FEE = 15;   // ₹ flat per order — change here
 export const GST_RATE        = 0.05; // 5% — change here
 ```
 
-Z-Coin rate: `src/data/products.js` → `calcZCoins()`:
-```js
-// 10 Z-Coins per complete ₹100 spent; ₹199 earns 10, ₹200 earns 20.
-return Math.floor(total / 100) * 10;
-```
+The active checkout flow uses `src/context/CartContext.js` and awards `Math.floor(total / 10)` Z-Coins for non-cash orders. Cash orders earn zero coins at placement. The separate `src/data/products.js` helper awards 10 coins per complete ₹100; do not use it to predict checkout rewards until these rules are unified.
 
 ---
 
