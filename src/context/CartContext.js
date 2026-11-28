@@ -40,6 +40,7 @@ export const calcZCoins = (total) => Math.floor(Number(total) / 10);
 const CartContext = createContext(null);
  
 export function CartProvider({ children }) {
+  const [budget, setBudget] = useState(0);
   const [localItems,   setLocalItems]   = useState([]);
   const [sharedItems,  setSharedItems]  = useState([]);
   const [groupId,      setGroupId]      = useState(null);
@@ -279,7 +280,7 @@ export function CartProvider({ children }) {
       value={{
         // State
         cartItems, groupId, isHost, cartStatus, groupLoading,
-        orders, coinHistory,
+        orders, coinHistory, budget, setBudget,
         // Derived (NaN-safe)
         itemCount, subtotal, tax, total,
         // Local mutations
